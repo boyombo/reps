@@ -1,0 +1,4634 @@
+[
+    {
+        "district": "ABIA NORTH",
+        "district_code": "SD/001/AB",
+        "lga": "UMUNNEOCHI",
+        "state": "ABIA"
+    },
+    {
+        "district": "ABIA NORTH",
+        "district_code": "SD/001/AB",
+        "lga": "ISUKWUATO",
+        "state": "ABIA"
+    },
+    {
+        "district": "ABIA NORTH",
+        "district_code": "SD/001/AB",
+        "lga": "OHAFIA",
+        "state": "ABIA"
+    },
+    {
+        "district": "ABIA NORTH",
+        "district_code": "SD/001/AB",
+        "lga": "AROCHUKWU",
+        "state": "ABIA"
+    },
+    {
+        "district": "ABIA NORTH",
+        "district_code": "SD/001/AB",
+        "lga": "BENDE",
+        "state": "ABIA"
+    },
+    {
+        "district": "ABIA CENTRAL",
+        "district_code": "SD/002/AB",
+        "lga": "UMUAHIA NORTH",
+        "state": "ABIA"
+    },
+    {
+        "district": "ABIA CENTRAL",
+        "district_code": "SD/002/AB",
+        "lga": "UMUAHIA SOUTH",
+        "state": "ABIA"
+    },
+    {
+        "district": "ABIA CENTRAL",
+        "district_code": "SD/002/AB",
+        "lga": "IKWUANO",
+        "state": "ABIA"
+    },
+    {
+        "district": "ABIA CENTRAL",
+        "district_code": "SD/002/AB",
+        "lga": "ISIALA NGWA NORTH",
+        "state": "ABIA"
+    },
+    {
+        "district": "ABIA CENTRAL",
+        "district_code": "SD/002/AB",
+        "lga": "ISIALA NGWA SOUTH",
+        "state": "ABIA"
+    },
+    {
+        "district": "ABIA CENTRAL",
+        "district_code": "SD/002/AB",
+        "lga": "",
+        "state": "ABIA"
+    },
+    {
+        "district": "ABIA SOUTH",
+        "district_code": "SD/003/AB",
+        "lga": "ABA NORTH",
+        "state": "ABIA"
+    },
+    {
+        "district": "ABIA SOUTH",
+        "district_code": "SD/003/AB",
+        "lga": "ABA SOUTH",
+        "state": "ABIA"
+    },
+    {
+        "district": "ABIA SOUTH",
+        "district_code": "SD/003/AB",
+        "lga": "UGWUNAGBO",
+        "state": "ABIA"
+    },
+    {
+        "district": "ABIA SOUTH",
+        "district_code": "SD/003/AB",
+        "lga": "OBINGWA",
+        "state": "ABIA"
+    },
+    {
+        "district": "ABIA SOUTH",
+        "district_code": "SD/003/AB",
+        "lga": "UKWA EAST",
+        "state": "ABIA"
+    },
+    {
+        "district": "ABIA SOUTH",
+        "district_code": "SD/003/AB",
+        "lga": "UKWA WEST & OSISIOMA",
+        "state": "ABIA"
+    },
+    {
+        "district": "AKWA IBOM NORTH EAST",
+        "district_code": "SD/007/AK",
+        "lga": "ETINAN",
+        "state": "AKWA IBOM"
+    },
+    {
+        "district": "AKWA IBOM NORTH EAST",
+        "district_code": "SD/007/AK",
+        "lga": "IBESIKPO ASUTAN",
+        "state": "AKWA IBOM"
+    },
+    {
+        "district": "AKWA IBOM NORTH EAST",
+        "district_code": "SD/007/AK",
+        "lga": "IBIONO IBOM",
+        "state": "AKWA IBOM"
+    },
+    {
+        "district": "AKWA IBOM NORTH EAST",
+        "district_code": "SD/007/AK",
+        "lga": "ITU",
+        "state": "AKWA IBOM"
+    },
+    {
+        "district": "AKWA IBOM NORTH EAST",
+        "district_code": "SD/007/AK",
+        "lga": "NSIT ATAI",
+        "state": "AKWA IBOM"
+    },
+    {
+        "district": "AKWA IBOM NORTH EAST",
+        "district_code": "SD/007/AK",
+        "lga": "NSIT IBOM",
+        "state": "AKWA IBOM"
+    },
+    {
+        "district": "AKWA IBOM NORTH EAST",
+        "district_code": "SD/007/AK",
+        "lga": "NSIT UBIUM",
+        "state": "AKWA IBOM"
+    },
+    {
+        "district": "AKWA IBOM NORTH EAST",
+        "district_code": "SD/007/AK",
+        "lga": "URUAN",
+        "state": "AKWA IBOM"
+    },
+    {
+        "district": "AKWA IBOM NORTH EAST",
+        "district_code": "SD/007/AK",
+        "lga": "UYO",
+        "state": "AKWA IBOM"
+    },
+    {
+        "district": "AKWA IBOM NORTH WEST",
+        "district_code": "SD/008/AK",
+        "lga": "ABAK",
+        "state": "AKWA IBOM"
+    },
+    {
+        "district": "AKWA IBOM NORTH WEST",
+        "district_code": "SD/008/AK",
+        "lga": "ESSIEN UDIM",
+        "state": "AKWA IBOM"
+    },
+    {
+        "district": "AKWA IBOM NORTH WEST",
+        "district_code": "SD/008/AK",
+        "lga": "ETIM EKPO",
+        "state": "AKWA IBOM"
+    },
+    {
+        "district": "AKWA IBOM NORTH WEST",
+        "district_code": "SD/008/AK",
+        "lga": "IKA",
+        "state": "AKWA IBOM"
+    },
+    {
+        "district": "AKWA IBOM NORTH WEST",
+        "district_code": "SD/008/AK",
+        "lga": "IKONO",
+        "state": "AKWA IBOM"
+    },
+    {
+        "district": "AKWA IBOM NORTH WEST",
+        "district_code": "SD/008/AK",
+        "lga": "IKOT EKPENE",
+        "state": "AKWA IBOM"
+    },
+    {
+        "district": "AKWA IBOM NORTH WEST",
+        "district_code": "SD/008/AK",
+        "lga": "INI",
+        "state": "AKWA IBOM"
+    },
+    {
+        "district": "AKWA IBOM NORTH WEST",
+        "district_code": "SD/008/AK",
+        "lga": "OBOT AKARA",
+        "state": "AKWA IBOM"
+    },
+    {
+        "district": "AKWA IBOM NORTH WEST",
+        "district_code": "SD/008/AK",
+        "lga": "ORUK ANAM",
+        "state": "AKWA IBOM"
+    },
+    {
+        "district": "AKWA IBOM NORTH WEST",
+        "district_code": "SD/008/AK",
+        "lga": "UKANAFUN",
+        "state": "AKWA IBOM"
+    },
+    {
+        "district": "AKWA IBOM SOUTH",
+        "district_code": "SD/009/AK",
+        "lga": "EASTERN OBOLO",
+        "state": "AKWA IBOM"
+    },
+    {
+        "district": "AKWA IBOM SOUTH",
+        "district_code": "SD/009/AK",
+        "lga": "EKET",
+        "state": "AKWA IBOM"
+    },
+    {
+        "district": "AKWA IBOM SOUTH",
+        "district_code": "SD/009/AK",
+        "lga": "ESIT EKET",
+        "state": "AKWA IBOM"
+    },
+    {
+        "district": "AKWA IBOM SOUTH",
+        "district_code": "SD/009/AK",
+        "lga": "IBENO",
+        "state": "AKWA IBOM"
+    },
+    {
+        "district": "AKWA IBOM SOUTH",
+        "district_code": "SD/009/AK",
+        "lga": "IKOT ABASI",
+        "state": "AKWA IBOM"
+    },
+    {
+        "district": "AKWA IBOM SOUTH",
+        "district_code": "SD/009/AK",
+        "lga": "MBO",
+        "state": "AKWA IBOM"
+    },
+    {
+        "district": "AKWA IBOM SOUTH",
+        "district_code": "SD/009/AK",
+        "lga": "MKPAT ENIN",
+        "state": "AKWA IBOM"
+    },
+    {
+        "district": "AKWA IBOM SOUTH",
+        "district_code": "SD/009/AK",
+        "lga": "OKOBO",
+        "state": "AKWA IBOM"
+    },
+    {
+        "district": "AKWA IBOM SOUTH",
+        "district_code": "SD/009/AK",
+        "lga": "ONNA",
+        "state": "AKWA IBOM"
+    },
+    {
+        "district": "AKWA IBOM SOUTH",
+        "district_code": "SD/009/AK",
+        "lga": "ORON",
+        "state": "AKWA IBOM"
+    },
+    {
+        "district": "AKWA IBOM SOUTH",
+        "district_code": "SD/009/AK",
+        "lga": "UDUNG UKO",
+        "state": "AKWA IBOM"
+    },
+    {
+        "district": "AKWA IBOM SOUTH",
+        "district_code": "SD/009/AK",
+        "lga": "URUE OFFONG/ORUKO",
+        "state": "AKWA IBOM"
+    },
+    {
+        "district": "ADAMAWA NORTH",
+        "district_code": "SD/004/AD",
+        "lga": "MADAGALI",
+        "state": "ADAMAWA"
+    },
+    {
+        "district": "ADAMAWA NORTH",
+        "district_code": "SD/004/AD",
+        "lga": "MAIHA",
+        "state": "ADAMAWA"
+    },
+    {
+        "district": "ADAMAWA NORTH",
+        "district_code": "SD/004/AD",
+        "lga": "MICHIKA",
+        "state": "ADAMAWA"
+    },
+    {
+        "district": "ADAMAWA NORTH",
+        "district_code": "SD/004/AD",
+        "lga": "MUBI NORTH",
+        "state": "ADAMAWA"
+    },
+    {
+        "district": "ADAMAWA NORTH",
+        "district_code": "SD/004/AD",
+        "lga": "MUBI SOUTH",
+        "state": "ADAMAWA"
+    },
+    {
+        "district": "ADAMAWA SOUTH",
+        "district_code": "SD/005/AD",
+        "lga": "DEMSA",
+        "state": "ADAMAWA"
+    },
+    {
+        "district": "ADAMAWA SOUTH",
+        "district_code": "SD/005/AD",
+        "lga": "GANYE",
+        "state": "ADAMAWA"
+    },
+    {
+        "district": "ADAMAWA SOUTH",
+        "district_code": "SD/005/AD",
+        "lga": "GUYUK",
+        "state": "ADAMAWA"
+    },
+    {
+        "district": "ADAMAWA SOUTH",
+        "district_code": "SD/005/AD",
+        "lga": "JADA",
+        "state": "ADAMAWA"
+    },
+    {
+        "district": "ADAMAWA SOUTH",
+        "district_code": "SD/005/AD",
+        "lga": "MAYO-BELWA",
+        "state": "ADAMAWA"
+    },
+    {
+        "district": "ADAMAWA SOUTH",
+        "district_code": "SD/005/AD",
+        "lga": "NUMAN",
+        "state": "ADAMAWA"
+    },
+    {
+        "district": "ADAMAWA SOUTH",
+        "district_code": "SD/005/AD",
+        "lga": "SHELLENG",
+        "state": "ADAMAWA"
+    },
+    {
+        "district": "ADAMAWA SOUTH",
+        "district_code": "SD/005/AD",
+        "lga": "TOUNGO",
+        "state": "ADAMAWA"
+    },
+    {
+        "district": "ADAMAWA SOUTH",
+        "district_code": "SD/005/AD",
+        "lga": "LAMURDE",
+        "state": "ADAMAWA"
+    },
+    {
+        "district": "ADAMAWA CENTRAL",
+        "district_code": "SD/006/AD",
+        "lga": "HONG",
+        "state": "ADAMAWA"
+    },
+    {
+        "district": "ADAMAWA CENTRAL",
+        "district_code": "SD/006/AD",
+        "lga": "FUFORE",
+        "state": "ADAMAWA"
+    },
+    {
+        "district": "ADAMAWA CENTRAL",
+        "district_code": "SD/006/AD",
+        "lga": "SONG",
+        "state": "ADAMAWA"
+    },
+    {
+        "district": "ADAMAWA CENTRAL",
+        "district_code": "SD/006/AD",
+        "lga": "YOLA NORTH",
+        "state": "ADAMAWA"
+    },
+    {
+        "district": "ADAMAWA CENTRAL",
+        "district_code": "SD/006/AD",
+        "lga": "YOLA SOUTH",
+        "state": "ADAMAWA"
+    },
+    {
+        "district": "ADAMAWA CENTRAL",
+        "district_code": "SD/006/AD",
+        "lga": "GERFI",
+        "state": "ADAMAWA"
+    },
+    {
+        "district": "ANAMBRA NORTH",
+        "district_code": "SD/010/AN",
+        "lga": "ONITSHA NORTH",
+        "state": "   ANAMBRA "
+    },
+    {
+        "district": "ANAMBRA NORTH",
+        "district_code": "SD/010/AN",
+        "lga": "ONITSHA SOUTH",
+        "state": "   ANAMBRA "
+    },
+    {
+        "district": "ANAMBRA NORTH",
+        "district_code": "SD/010/AN",
+        "lga": "OYI",
+        "state": "   ANAMBRA "
+    },
+    {
+        "district": "ANAMBRA NORTH",
+        "district_code": "SD/010/AN",
+        "lga": "OGBARU",
+        "state": "   ANAMBRA "
+    },
+    {
+        "district": "ANAMBRA NORTH",
+        "district_code": "SD/010/AN",
+        "lga": "ANAMBRA EAST",
+        "state": "   ANAMBRA "
+    },
+    {
+        "district": "ANAMBRA NORTH",
+        "district_code": "SD/010/AN",
+        "lga": "ANAMBRA WEST",
+        "state": "   ANAMBRA "
+    },
+    {
+        "district": "ANAMBRA NORTH",
+        "district_code": "SD/010/AN",
+        "lga": "AYAMELUM",
+        "state": "   ANAMBRA "
+    },
+    {
+        "district": "ANAMBRA CENTRAL",
+        "district_code": "SD/011/AN",
+        "lga": "AWKA NORTH",
+        "state": "   ANAMBRA "
+    },
+    {
+        "district": "ANAMBRA CENTRAL",
+        "district_code": "SD/011/AN",
+        "lga": "AWKA SOUTH",
+        "state": "   ANAMBRA "
+    },
+    {
+        "district": "ANAMBRA CENTRAL",
+        "district_code": "SD/011/AN",
+        "lga": "NJIKOKA",
+        "state": "   ANAMBRA "
+    },
+    {
+        "district": "ANAMBRA CENTRAL",
+        "district_code": "SD/011/AN",
+        "lga": "ANAOCHA",
+        "state": "   ANAMBRA "
+    },
+    {
+        "district": "ANAMBRA CENTRAL",
+        "district_code": "SD/011/AN",
+        "lga": "IDEMILI NORTH",
+        "state": "   ANAMBRA "
+    },
+    {
+        "district": "ANAMBRA CENTRAL",
+        "district_code": "SD/011/AN",
+        "lga": "IDEMILI SOUTH",
+        "state": "   ANAMBRA "
+    },
+    {
+        "district": "ANAMBRA CENTRAL",
+        "district_code": "SD/011/AN",
+        "lga": "DUNUKOFIA",
+        "state": "   ANAMBRA "
+    },
+    {
+        "district": "ANAMBRA SOUTH",
+        "district_code": "SD/012/AN",
+        "lga": "IHIALA",
+        "state": "   ANAMBRA "
+    },
+    {
+        "district": "ANAMBRA SOUTH",
+        "district_code": "SD/012/AN",
+        "lga": "NNEWI NORTH",
+        "state": "   ANAMBRA "
+    },
+    {
+        "district": "ANAMBRA SOUTH",
+        "district_code": "SD/012/AN",
+        "lga": "NNEWI SOUTH",
+        "state": "   ANAMBRA "
+    },
+    {
+        "district": "ANAMBRA SOUTH",
+        "district_code": "SD/012/AN",
+        "lga": "ORUMBA SOUTH",
+        "state": "   ANAMBRA "
+    },
+    {
+        "district": "ANAMBRA SOUTH",
+        "district_code": "SD/012/AN",
+        "lga": "ORUMBA NORTH",
+        "state": "   ANAMBRA "
+    },
+    {
+        "district": "ANAMBRA SOUTH",
+        "district_code": "SD/012/AN",
+        "lga": "AGUATA",
+        "state": "   ANAMBRA "
+    },
+    {
+        "district": "ANAMBRA SOUTH",
+        "district_code": "SD/012/AN",
+        "lga": "EKWUSIGO",
+        "state": "   ANAMBRA "
+    },
+    {
+        "district": "BAUCHI SOUTH",
+        "district_code": "SD/013/BA",
+        "lga": "ALKALERI",
+        "state": "BAUCHI"
+    },
+    {
+        "district": "BAUCHI SOUTH",
+        "district_code": "SD/013/BA",
+        "lga": "KIRFI",
+        "state": "BAUCHI"
+    },
+    {
+        "district": "BAUCHI SOUTH",
+        "district_code": "SD/013/BA",
+        "lga": "BAUCHI",
+        "state": "BAUCHI"
+    },
+    {
+        "district": "BAUCHI SOUTH",
+        "district_code": "SD/013/BA",
+        "lga": "TAFAWA BALEWA",
+        "state": "BAUCHI"
+    },
+    {
+        "district": "BAUCHI SOUTH",
+        "district_code": "SD/013/BA",
+        "lga": "BOGORO",
+        "state": "BAUCHI"
+    },
+    {
+        "district": "BAUCHI SOUTH",
+        "district_code": "SD/013/BA",
+        "lga": "DASS",
+        "state": "BAUCHI"
+    },
+    {
+        "district": "BAUCHI SOUTH",
+        "district_code": "SD/013/BA",
+        "lga": "TORO",
+        "state": "BAUCHI"
+    },
+    {
+        "district": "BAUCHI CENTRAL",
+        "district_code": "SD/014/BA",
+        "lga": "NINGI",
+        "state": "BAUCHI"
+    },
+    {
+        "district": "BAUCHI CENTRAL",
+        "district_code": "SD/014/BA",
+        "lga": "WARJI",
+        "state": "BAUCHI"
+    },
+    {
+        "district": "BAUCHI CENTRAL",
+        "district_code": "SD/014/BA",
+        "lga": "DARAZO",
+        "state": "BAUCHI"
+    },
+    {
+        "district": "BAUCHI CENTRAL",
+        "district_code": "SD/014/BA",
+        "lga": "GANJUWA",
+        "state": "BAUCHI"
+    },
+    {
+        "district": "BAUCHI CENTRAL",
+        "district_code": "SD/014/BA",
+        "lga": "MISAU",
+        "state": "BAUCHI"
+    },
+    {
+        "district": "BAUCHI CENTRAL",
+        "district_code": "SD/014/BA",
+        "lga": "DAMBAN",
+        "state": "BAUCHI"
+    },
+    {
+        "district": "BAUCHI NORTH",
+        "district_code": "SD/015/BA",
+        "lga": "ZAKI",
+        "state": "BAUCHI"
+    },
+    {
+        "district": "BAUCHI NORTH",
+        "district_code": "SD/015/BA",
+        "lga": "GAMAWA",
+        "state": "BAUCHI"
+    },
+    {
+        "district": "BAUCHI NORTH",
+        "district_code": "SD/015/BA",
+        "lga": "JAMAARE",
+        "state": "BAUCHI"
+    },
+    {
+        "district": "BAUCHI NORTH",
+        "district_code": "SD/015/BA",
+        "lga": "ITAS-GADAU",
+        "state": "BAUCHI"
+    },
+    {
+        "district": "BAUCHI NORTH",
+        "district_code": "SD/015/BA",
+        "lga": "SHIRA",
+        "state": "BAUCHI"
+    },
+    {
+        "district": "BAUCHI NORTH",
+        "district_code": "SD/015/BA",
+        "lga": "GIADE",
+        "state": "BAUCHI"
+    },
+    {
+        "district": "BAUCHI NORTH",
+        "district_code": "SD/015/BA",
+        "lga": "KATAGUM",
+        "state": "BAUCHI"
+    },
+    {
+        "district": "BAYELSA EAST",
+        "district_code": "SD/016/BY",
+        "lga": "BRASS",
+        "state": "BAYELSA"
+    },
+    {
+        "district": "BAYELSA EAST",
+        "district_code": "SD/016/BY",
+        "lga": "NEMBE",
+        "state": "BAYELSA"
+    },
+    {
+        "district": "BAYELSA EAST",
+        "district_code": "SD/016/BY",
+        "lga": "OGBIA",
+        "state": "BAYELSA"
+    },
+    {
+        "district": "BAYELSA CENTRAL",
+        "district_code": "SD/017/BY",
+        "lga": "KOLOKUMA/OPOKUMA",
+        "state": "BAYELSA"
+    },
+    {
+        "district": "BAYELSA CENTRAL",
+        "district_code": "SD/017/BY",
+        "lga": "SOUTHERN IJAW",
+        "state": "BAYELSA"
+    },
+    {
+        "district": "BAYELSA CENTRAL",
+        "district_code": "SD/017/BY",
+        "lga": "YENAGOA",
+        "state": "BAYELSA"
+    },
+    {
+        "district": "BAYELSA WEST",
+        "district_code": "SD/018/BY",
+        "lga": "EKEREMOR",
+        "state": "BAYELSA"
+    },
+    {
+        "district": "BAYELSA WEST",
+        "district_code": "SD/018/BY",
+        "lga": "SAGBAMA",
+        "state": "BAYELSA"
+    },
+    {
+        "district": "BENUE NORTH EAST",
+        "district_code": "SD/019/BN",
+        "lga": "KATSINA-ALA",
+        "state": "BENUE"
+    },
+    {
+        "district": "BENUE NORTH EAST",
+        "district_code": "SD/019/BN",
+        "lga": "KONSHISHA",
+        "state": "BENUE"
+    },
+    {
+        "district": "BENUE NORTH EAST",
+        "district_code": "SD/019/BN",
+        "lga": "KWANDE",
+        "state": "BENUE"
+    },
+    {
+        "district": "BENUE NORTH EAST",
+        "district_code": "SD/019/BN",
+        "lga": "LOGO",
+        "state": "BENUE"
+    },
+    {
+        "district": "BENUE NORTH EAST",
+        "district_code": "SD/019/BN",
+        "lga": "UKUM",
+        "state": "BENUE"
+    },
+    {
+        "district": "BENUE NORTH EAST",
+        "district_code": "SD/019/BN",
+        "lga": "USHONGO",
+        "state": "BENUE"
+    },
+    {
+        "district": "BENUE NORTH EAST",
+        "district_code": "SD/019/BN",
+        "lga": "VANDEIKYA",
+        "state": "BENUE"
+    },
+    {
+        "district": "BENUE NORTH WEST",
+        "district_code": "SD/020/BN",
+        "lga": "BURUKU",
+        "state": "BENUE"
+    },
+    {
+        "district": "BENUE NORTH WEST",
+        "district_code": "SD/020/BN",
+        "lga": "GBOKO",
+        "state": "BENUE"
+    },
+    {
+        "district": "BENUE NORTH WEST",
+        "district_code": "SD/020/BN",
+        "lga": "GUMA",
+        "state": "BENUE"
+    },
+    {
+        "district": "BENUE NORTH WEST",
+        "district_code": "SD/020/BN",
+        "lga": "GWER-EAST",
+        "state": "BENUE"
+    },
+    {
+        "district": "BENUE NORTH WEST",
+        "district_code": "SD/020/BN",
+        "lga": "GWER-WEST",
+        "state": "BENUE"
+    },
+    {
+        "district": "BENUE NORTH WEST",
+        "district_code": "SD/020/BN",
+        "lga": "MARKURDI",
+        "state": "BENUE"
+    },
+    {
+        "district": "BENUE NORTH WEST",
+        "district_code": "SD/020/BN",
+        "lga": "TARKA",
+        "state": "BENUE"
+    },
+    {
+        "district": "BENUE SOUTH",
+        "district_code": "SD/021/BN",
+        "lga": "ADO",
+        "state": "BENUE"
+    },
+    {
+        "district": "BENUE SOUTH",
+        "district_code": "SD/021/BN",
+        "lga": "AGATU",
+        "state": "BENUE"
+    },
+    {
+        "district": "BENUE SOUTH",
+        "district_code": "SD/021/BN",
+        "lga": "APA",
+        "state": "BENUE"
+    },
+    {
+        "district": "BENUE SOUTH",
+        "district_code": "SD/021/BN",
+        "lga": "OBI",
+        "state": "BENUE"
+    },
+    {
+        "district": "BENUE SOUTH",
+        "district_code": "SD/021/BN",
+        "lga": "OGBADIBO",
+        "state": "BENUE"
+    },
+    {
+        "district": "BENUE SOUTH",
+        "district_code": "SD/021/BN",
+        "lga": "OHIMINI",
+        "state": "BENUE"
+    },
+    {
+        "district": "BENUE SOUTH",
+        "district_code": "SD/021/BN",
+        "lga": "OJU",
+        "state": "BENUE"
+    },
+    {
+        "district": "BENUE SOUTH",
+        "district_code": "SD/021/BN",
+        "lga": "OKPOKWU",
+        "state": "BENUE"
+    },
+    {
+        "district": "BENUE SOUTH",
+        "district_code": "SD/021/BN",
+        "lga": "OTUKPO",
+        "state": "BENUE"
+    },
+    {
+        "district": "BORNO NORTH",
+        "district_code": "SD/022/BO",
+        "lga": "ABADAM",
+        "state": "BORNO"
+    },
+    {
+        "district": "BORNO NORTH",
+        "district_code": "SD/022/BO",
+        "lga": "GUBIO",
+        "state": "BORNO"
+    },
+    {
+        "district": "BORNO NORTH",
+        "district_code": "SD/022/BO",
+        "lga": "GUZAMALA",
+        "state": "BORNO"
+    },
+    {
+        "district": "BORNO NORTH",
+        "district_code": "SD/022/BO",
+        "lga": "KUKAWA",
+        "state": "BORNO"
+    },
+    {
+        "district": "BORNO NORTH",
+        "district_code": "SD/022/BO",
+        "lga": "MAGUMERI",
+        "state": "BORNO"
+    },
+    {
+        "district": "BORNO NORTH",
+        "district_code": "SD/022/BO",
+        "lga": "MARTE",
+        "state": "BORNO"
+    },
+    {
+        "district": "BORNO NORTH",
+        "district_code": "SD/022/BO",
+        "lga": "MOBBAR",
+        "state": "BORNO"
+    },
+    {
+        "district": "BORNO NORTH",
+        "district_code": "SD/022/BO",
+        "lga": "NGANZA",
+        "state": "BORNO"
+    },
+    {
+        "district": "BORNO NORTH",
+        "district_code": "SD/022/BO",
+        "lga": "MOGUNO",
+        "state": "BORNO"
+    },
+    {
+        "district": "BORNO CENTRAL",
+        "district_code": "SD/023/BO",
+        "lga": "DIKWA",
+        "state": "BORNO"
+    },
+    {
+        "district": "BORNO CENTRAL",
+        "district_code": "SD/023/BO",
+        "lga": "JERE",
+        "state": "BORNO"
+    },
+    {
+        "district": "BORNO CENTRAL",
+        "district_code": "SD/023/BO",
+        "lga": "KALA BALGE",
+        "state": "BORNO"
+    },
+    {
+        "district": "BORNO CENTRAL",
+        "district_code": "SD/023/BO",
+        "lga": "MAFA",
+        "state": "BORNO"
+    },
+    {
+        "district": "BORNO CENTRAL",
+        "district_code": "SD/023/BO",
+        "lga": "METROPOLITAN",
+        "state": "BORNO"
+    },
+    {
+        "district": "BORNO CENTRAL",
+        "district_code": "SD/023/BO",
+        "lga": "NGALA",
+        "state": "BORNO"
+    },
+    {
+        "district": "BORNO CENTRAL",
+        "district_code": "SD/023/BO",
+        "lga": "KONDUGA",
+        "state": "BORNO"
+    },
+    {
+        "district": "BORNO CENTRAL",
+        "district_code": "SD/023/BO",
+        "lga": "BAMA",
+        "state": "BORNO"
+    },
+    {
+        "district": "BORNO CENTRAL",
+        "district_code": "SD/023/BO",
+        "lga": "KAGA",
+        "state": "BORNO"
+    },
+    {
+        "district": "BORNO SOUTH",
+        "district_code": "SD/024/BO",
+        "lga": "ASKIRA/UBA",
+        "state": "BORNO"
+    },
+    {
+        "district": "BORNO SOUTH",
+        "district_code": "SD/024/BO",
+        "lga": "BAYO",
+        "state": "BORNO"
+    },
+    {
+        "district": "BORNO SOUTH",
+        "district_code": "SD/024/BO",
+        "lga": "BIU",
+        "state": "BORNO"
+    },
+    {
+        "district": "BORNO SOUTH",
+        "district_code": "SD/024/BO",
+        "lga": "CHIBOK",
+        "state": "BORNO"
+    },
+    {
+        "district": "BORNO SOUTH",
+        "district_code": "SD/024/BO",
+        "lga": "DAMABOA",
+        "state": "BORNO"
+    },
+    {
+        "district": "BORNO SOUTH",
+        "district_code": "SD/024/BO",
+        "lga": "GWOZA",
+        "state": "BORNO"
+    },
+    {
+        "district": "BORNO SOUTH",
+        "district_code": "SD/024/BO",
+        "lga": "HAWUL",
+        "state": "BORNO"
+    },
+    {
+        "district": "BORNO SOUTH",
+        "district_code": "SD/024/BO",
+        "lga": "KWAYA",
+        "state": "BORNO"
+    },
+    {
+        "district": "BORNO SOUTH",
+        "district_code": "SD/024/BO",
+        "lga": "SHANI",
+        "state": "BORNO"
+    },
+    {
+        "district": "CROSS RIVER NORTH",
+        "district_code": "SD/025/CR",
+        "lga": "BEKWARRA",
+        "state": "CROSS RIVER"
+    },
+    {
+        "district": "CROSS RIVER NORTH",
+        "district_code": "SD/025/CR",
+        "lga": "OBANLIKU",
+        "state": "CROSS RIVER"
+    },
+    {
+        "district": "CROSS RIVER NORTH",
+        "district_code": "SD/025/CR",
+        "lga": "OBUDU",
+        "state": "CROSS RIVER"
+    },
+    {
+        "district": "CROSS RIVER NORTH",
+        "district_code": "SD/025/CR",
+        "lga": "OGOJA",
+        "state": "CROSS RIVER"
+    },
+    {
+        "district": "CROSS RIVER NORTH",
+        "district_code": "SD/025/CR",
+        "lga": "YALA",
+        "state": "CROSS RIVER"
+    },
+    {
+        "district": "CROSS RIVER NORTH",
+        "district_code": "SD/025/CR",
+        "lga": "BIASE",
+        "state": "CROSS RIVER"
+    },
+    {
+        "district": "CROSS RIVER CENTRAL",
+        "district_code": "SD/026/CR",
+        "lga": "ABI",
+        "state": "CROSS RIVER"
+    },
+    {
+        "district": "CROSS RIVER CENTRAL",
+        "district_code": "SD/026/CR",
+        "lga": "BOKI",
+        "state": "CROSS RIVER"
+    },
+    {
+        "district": "CROSS RIVER CENTRAL",
+        "district_code": "SD/026/CR",
+        "lga": "ETUNG",
+        "state": "CROSS RIVER"
+    },
+    {
+        "district": "CROSS RIVER CENTRAL",
+        "district_code": "SD/026/CR",
+        "lga": "IKOM",
+        "state": "CROSS RIVER"
+    },
+    {
+        "district": "CROSS RIVER CENTRAL",
+        "district_code": "SD/026/CR",
+        "lga": "OBUBRA",
+        "state": "CROSS RIVER"
+    },
+    {
+        "district": "CROSS RIVER CENTRAL",
+        "district_code": "SD/026/CR",
+        "lga": "YAKURR",
+        "state": "CROSS RIVER"
+    },
+    {
+        "district": "CROSS RIVER SOUTH",
+        "district_code": "SD/027/CR",
+        "lga": "CALABAR MUNICIPAL",
+        "state": "CROSS RIVER"
+    },
+    {
+        "district": "CROSS RIVER SOUTH",
+        "district_code": "SD/027/CR",
+        "lga": "CALABAR SOUTH",
+        "state": "CROSS RIVER"
+    },
+    {
+        "district": "CROSS RIVER SOUTH",
+        "district_code": "SD/027/CR",
+        "lga": "AKAMKPA",
+        "state": "CROSS RIVER"
+    },
+    {
+        "district": "CROSS RIVER SOUTH",
+        "district_code": "SD/027/CR",
+        "lga": "AKPABUYO",
+        "state": "CROSS RIVER"
+    },
+    {
+        "district": "CROSS RIVER SOUTH",
+        "district_code": "SD/027/CR",
+        "lga": "BAKASSI",
+        "state": "CROSS RIVER"
+    },
+    {
+        "district": "CROSS RIVER SOUTH",
+        "district_code": "SD/027/CR",
+        "lga": "ODUKPANI",
+        "state": "CROSS RIVER"
+    },
+    {
+        "district": "DELTA CENTRAL",
+        "district_code": "SD/028/DT",
+        "lga": "ETHIOPE EAST",
+        "state": "DELTA"
+    },
+    {
+        "district": "DELTA CENTRAL",
+        "district_code": "SD/028/DT",
+        "lga": "ETHIOPE WEST",
+        "state": "DELTA"
+    },
+    {
+        "district": "DELTA CENTRAL",
+        "district_code": "SD/028/DT",
+        "lga": "OKPE",
+        "state": "DELTA"
+    },
+    {
+        "district": "DELTA CENTRAL",
+        "district_code": "SD/028/DT",
+        "lga": "SAPELE",
+        "state": "DELTA"
+    },
+    {
+        "district": "DELTA CENTRAL",
+        "district_code": "SD/028/DT",
+        "lga": "UDU",
+        "state": "DELTA"
+    },
+    {
+        "district": "DELTA CENTRAL",
+        "district_code": "SD/028/DT",
+        "lga": "UGHELLI NORTH",
+        "state": "DELTA"
+    },
+    {
+        "district": "DELTA CENTRAL",
+        "district_code": "SD/028/DT",
+        "lga": "UGHELI SOUTH",
+        "state": "DELTA"
+    },
+    {
+        "district": "DELTA CENTRAL",
+        "district_code": "SD/028/DT",
+        "lga": "UVWIE",
+        "state": "DELTA"
+    },
+    {
+        "district": "DELTA NORTH",
+        "district_code": "SD/029/DT",
+        "lga": "ANIOCHA NORTH",
+        "state": "DELTA"
+    },
+    {
+        "district": "DELTA NORTH",
+        "district_code": "SD/029/DT",
+        "lga": "ANIOCHA SOUTH",
+        "state": "DELTA"
+    },
+    {
+        "district": "DELTA NORTH",
+        "district_code": "SD/029/DT",
+        "lga": "IKA NORTH-EAST",
+        "state": "DELTA"
+    },
+    {
+        "district": "DELTA NORTH",
+        "district_code": "SD/029/DT",
+        "lga": "IKA SOUTH",
+        "state": "DELTA"
+    },
+    {
+        "district": "DELTA NORTH",
+        "district_code": "SD/029/DT",
+        "lga": "NDOKWA EAST",
+        "state": "DELTA"
+    },
+    {
+        "district": "DELTA NORTH",
+        "district_code": "SD/029/DT",
+        "lga": "NDOKWA WEST",
+        "state": "DELTA"
+    },
+    {
+        "district": "DELTA NORTH",
+        "district_code": "SD/029/DT",
+        "lga": "OSHIMILI NORTH",
+        "state": "DELTA"
+    },
+    {
+        "district": "DELTA NORTH",
+        "district_code": "SD/029/DT",
+        "lga": "OSHIMILI SOUTH",
+        "state": "DELTA"
+    },
+    {
+        "district": "DELTA NORTH",
+        "district_code": "SD/029/DT",
+        "lga": "UKWUANI",
+        "state": "DELTA"
+    },
+    {
+        "district": "DELTA SOUTH",
+        "district_code": "SD/030/DT",
+        "lga": "BOMADI",
+        "state": "DELTA"
+    },
+    {
+        "district": "DELTA SOUTH",
+        "district_code": "SD/030/DT",
+        "lga": "BURUTU",
+        "state": "DELTA"
+    },
+    {
+        "district": "DELTA SOUTH",
+        "district_code": "SD/030/DT",
+        "lga": "ISOKO NORTH",
+        "state": "DELTA"
+    },
+    {
+        "district": "DELTA SOUTH",
+        "district_code": "SD/030/DT",
+        "lga": "ISOKO SOUTH",
+        "state": "DELTA"
+    },
+    {
+        "district": "DELTA SOUTH",
+        "district_code": "SD/030/DT",
+        "lga": "PATANI",
+        "state": "DELTA"
+    },
+    {
+        "district": "DELTA SOUTH",
+        "district_code": "SD/030/DT",
+        "lga": "WARRI NORTH",
+        "state": "DELTA"
+    },
+    {
+        "district": "DELTA SOUTH",
+        "district_code": "SD/030/DT",
+        "lga": "WARRI SOUTH",
+        "state": "DELTA"
+    },
+    {
+        "district": "DELTA SOUTH",
+        "district_code": "SD/030/DT",
+        "lga": "WARRI SOUTH WEST",
+        "state": "DELTA"
+    },
+    {
+        "district": "EBONYI NORTH",
+        "district_code": "SD/031/EB",
+        "lga": "ABAKALIKI",
+        "state": "EBONYI"
+    },
+    {
+        "district": "EBONYI NORTH",
+        "district_code": "SD/031/EB",
+        "lga": "EBONYI",
+        "state": "EBONYI"
+    },
+    {
+        "district": "EBONYI NORTH",
+        "district_code": "SD/031/EB",
+        "lga": "IZZI",
+        "state": "EBONYI"
+    },
+    {
+        "district": "EBONYI NORTH",
+        "district_code": "SD/031/EB",
+        "lga": "OHAUKWU",
+        "state": "EBONYI"
+    },
+    {
+        "district": "EBONYI CENTRAL",
+        "district_code": "SD/032/EB",
+        "lga": "EZZA NORTH",
+        "state": "EBONYI"
+    },
+    {
+        "district": "EBONYI CENTRAL",
+        "district_code": "SD/032/EB",
+        "lga": "EZZA SOUTH",
+        "state": "EBONYI"
+    },
+    {
+        "district": "EBONYI CENTRAL",
+        "district_code": "SD/032/EB",
+        "lga": "IKWO",
+        "state": "EBONYI"
+    },
+    {
+        "district": "EBONYI CENTRAL",
+        "district_code": "SD/032/EB",
+        "lga": "ISHIELU",
+        "state": "EBONYI"
+    },
+    {
+        "district": "EBONYI SOUTH",
+        "district_code": "SD/033/EB",
+        "lga": "AFIKPO NORTH",
+        "state": "EBONYI"
+    },
+    {
+        "district": "EBONYI SOUTH",
+        "district_code": "SD/033/EB",
+        "lga": "AFIKPO SOUTH",
+        "state": "EBONYI"
+    },
+    {
+        "district": "EBONYI SOUTH",
+        "district_code": "SD/033/EB",
+        "lga": "IVO",
+        "state": "EBONYI"
+    },
+    {
+        "district": "EBONYI SOUTH",
+        "district_code": "SD/033/EB",
+        "lga": "OHAOZARA",
+        "state": "EBONYI"
+    },
+    {
+        "district": "EBONYI SOUTH",
+        "district_code": "SD/033/EB",
+        "lga": "ONICHA",
+        "state": "EBONYI"
+    },
+    {
+        "district": "EDO CENTRAL",
+        "district_code": "SD/034/ED",
+        "lga": "ESAN CENTRAL",
+        "state": "EDO"
+    },
+    {
+        "district": "EDO CENTRAL",
+        "district_code": "SD/034/ED",
+        "lga": "ESAN NORTH EAST",
+        "state": "EDO"
+    },
+    {
+        "district": "EDO CENTRAL",
+        "district_code": "SD/034/ED",
+        "lga": "ESAN SOUTH EAST",
+        "state": "EDO"
+    },
+    {
+        "district": "EDO CENTRAL",
+        "district_code": "SD/034/ED",
+        "lga": "ESAN WEST",
+        "state": "EDO"
+    },
+    {
+        "district": "EDO CENTRAL",
+        "district_code": "SD/034/ED",
+        "lga": "IGUEBEN",
+        "state": "EDO"
+    },
+    {
+        "district": "EDO NORTH",
+        "district_code": "SD/035/ED",
+        "lga": "AKOKO EDO",
+        "state": "EDO"
+    },
+    {
+        "district": "EDO NORTH",
+        "district_code": "SD/035/ED",
+        "lga": "ETSAKO EAST",
+        "state": "EDO"
+    },
+    {
+        "district": "EDO NORTH",
+        "district_code": "SD/035/ED",
+        "lga": "ETSAKO CENTRAL",
+        "state": "EDO"
+    },
+    {
+        "district": "EDO NORTH",
+        "district_code": "SD/035/ED",
+        "lga": "ETSAKO WEST",
+        "state": "EDO"
+    },
+    {
+        "district": "EDO NORTH",
+        "district_code": "SD/035/ED",
+        "lga": "OWAN EAST",
+        "state": "EDO"
+    },
+    {
+        "district": "EDO NORTH",
+        "district_code": "SD/035/ED",
+        "lga": "OWAN WEST",
+        "state": "EDO"
+    },
+    {
+        "district": "EDO SOUTH",
+        "district_code": "SD/036/ED",
+        "lga": "OREDO",
+        "state": "EDO"
+    },
+    {
+        "district": "EDO SOUTH",
+        "district_code": "SD/036/ED",
+        "lga": "ORHIONMWON",
+        "state": "EDO"
+    },
+    {
+        "district": "EDO SOUTH",
+        "district_code": "SD/036/ED",
+        "lga": "OVIA NORTH EAST",
+        "state": "EDO"
+    },
+    {
+        "district": "EDO SOUTH",
+        "district_code": "SD/036/ED",
+        "lga": "OVIA SOUTH WEST",
+        "state": "EDO"
+    },
+    {
+        "district": "EDO SOUTH",
+        "district_code": "SD/036/ED",
+        "lga": "EGOR",
+        "state": "EDO"
+    },
+    {
+        "district": "EDO SOUTH",
+        "district_code": "SD/036/ED",
+        "lga": "UHUNMWODE",
+        "state": "EDO"
+    },
+    {
+        "district": "EDO SOUTH",
+        "district_code": "SD/036/ED",
+        "lga": "IKPOBA OKHA",
+        "state": "EDO"
+    },
+    {
+        "district": "EKITI NORTH",
+        "district_code": "SD/037/EK",
+        "lga": "IKOLE",
+        "state": "EKITI"
+    },
+    {
+        "district": "EKITI NORTH",
+        "district_code": "SD/037/EK",
+        "lga": "OYE",
+        "state": "EKITI"
+    },
+    {
+        "district": "EKITI NORTH",
+        "district_code": "SD/037/EK",
+        "lga": "IDO/OSI",
+        "state": "EKITI"
+    },
+    {
+        "district": "EKITI NORTH",
+        "district_code": "SD/037/EK",
+        "lga": "MOBA",
+        "state": "EKITI"
+    },
+    {
+        "district": "EKITI NORTH",
+        "district_code": "SD/037/EK",
+        "lga": "ILEJEMEJE",
+        "state": "EKITI"
+    },
+    {
+        "district": "EKITI CENTRAL",
+        "district_code": "SD/038/EK",
+        "lga": "ADO EKITI",
+        "state": "EKITI"
+    },
+    {
+        "district": "EKITI CENTRAL",
+        "district_code": "SD/038/EK",
+        "lga": "IREPODUN/IFELODUN",
+        "state": "EKITI"
+    },
+    {
+        "district": "EKITI CENTRAL",
+        "district_code": "SD/038/EK",
+        "lga": "IJERO",
+        "state": "EKITI"
+    },
+    {
+        "district": "EKITI CENTRAL",
+        "district_code": "SD/038/EK",
+        "lga": "EFON",
+        "state": "EKITI"
+    },
+    {
+        "district": "EKITI CENTRAL",
+        "district_code": "SD/038/EK",
+        "lga": "EKITI WEST",
+        "state": "EKITI"
+    },
+    {
+        "district": "EKITI SOUTH",
+        "district_code": "SD/039/EK",
+        "lga": "EKITI SOUTH WEST",
+        "state": "EKITI"
+    },
+    {
+        "district": "EKITI SOUTH",
+        "district_code": "SD/039/EK",
+        "lga": "IKERE",
+        "state": "EKITI"
+    },
+    {
+        "district": "EKITI SOUTH",
+        "district_code": "SD/039/EK",
+        "lga": "EMURE",
+        "state": "EKITI"
+    },
+    {
+        "district": "EKITI SOUTH",
+        "district_code": "SD/039/EK",
+        "lga": "ISE/ORUN",
+        "state": "EKITI"
+    },
+    {
+        "district": "EKITI SOUTH",
+        "district_code": "SD/039/EK",
+        "lga": "GBONYIN",
+        "state": "EKITI"
+    },
+    {
+        "district": "EKITI SOUTH",
+        "district_code": "SD/039/EK",
+        "lga": "EKITI EAST",
+        "state": "EKITI"
+    },
+    {
+        "district": "ENUGU EAST",
+        "district_code": "SD/040/EN",
+        "lga": "ENUGU EAST",
+        "state": "ENUGU"
+    },
+    {
+        "district": "ENUGU EAST",
+        "district_code": "SD/040/EN",
+        "lga": "ENUGU NORTH",
+        "state": "ENUGU"
+    },
+    {
+        "district": "ENUGU EAST",
+        "district_code": "SD/040/EN",
+        "lga": "ENUGU SOUTH",
+        "state": "ENUGU"
+    },
+    {
+        "district": "ENUGU EAST",
+        "district_code": "SD/040/EN",
+        "lga": "ISI-UZO",
+        "state": "ENUGU"
+    },
+    {
+        "district": "ENUGU EAST",
+        "district_code": "SD/040/EN",
+        "lga": "NKANU EAST",
+        "state": "ENUGU"
+    },
+    {
+        "district": "ENUGU EAST",
+        "district_code": "SD/040/EN",
+        "lga": "NKANU WEST",
+        "state": "ENUGU"
+    },
+    {
+        "district": "ENUGU WEST",
+        "district_code": "SD/041/EN",
+        "lga": "ANINIRI",
+        "state": "ENUGU"
+    },
+    {
+        "district": "ENUGU WEST",
+        "district_code": "SD/041/EN",
+        "lga": "AWGU",
+        "state": "ENUGU"
+    },
+    {
+        "district": "ENUGU WEST",
+        "district_code": "SD/041/EN",
+        "lga": "EZEAGU",
+        "state": "ENUGU"
+    },
+    {
+        "district": "ENUGU WEST",
+        "district_code": "SD/041/EN",
+        "lga": "OJI RIVER",
+        "state": "ENUGU"
+    },
+    {
+        "district": "ENUGU WEST",
+        "district_code": "SD/041/EN",
+        "lga": "UDI",
+        "state": "ENUGU"
+    },
+    {
+        "district": "ENUGU NORTH",
+        "district_code": "SD/042/EN",
+        "lga": "IGBO-ETITI",
+        "state": "ENUGU"
+    },
+    {
+        "district": "ENUGU NORTH",
+        "district_code": "SD/042/EN",
+        "lga": "IGBO-EZE NORTH",
+        "state": "ENUGU"
+    },
+    {
+        "district": "ENUGU NORTH",
+        "district_code": "SD/042/EN",
+        "lga": "IGO-EZE SOUTH",
+        "state": "ENUGU"
+    },
+    {
+        "district": "ENUGU NORTH",
+        "district_code": "SD/042/EN",
+        "lga": "UZO UWANI",
+        "state": "ENUGU"
+    },
+    {
+        "district": "ENUGU NORTH",
+        "district_code": "SD/042/EN",
+        "lga": "UDENU",
+        "state": "ENUGU"
+    },
+    {
+        "district": "ENUGU NORTH",
+        "district_code": "SD/042/EN",
+        "lga": "NSUKKA",
+        "state": "ENUGU"
+    },
+    {
+        "district": "GOMBE CENTRAL",
+        "district_code": "SD/043/GM",
+        "lga": "AKKO",
+        "state": "GOMBE"
+    },
+    {
+        "district": "GOMBE CENTRAL",
+        "district_code": "SD/043/GM",
+        "lga": "YAMALTU/DEBA",
+        "state": "GOMBE"
+    },
+    {
+        "district": "GOMBE SOUTH",
+        "district_code": "SD/044/GM",
+        "lga": "BALANGA",
+        "state": "GOMBE"
+    },
+    {
+        "district": "GOMBE SOUTH",
+        "district_code": "SD/044/GM",
+        "lga": "BILLIRI",
+        "state": "GOMBE"
+    },
+    {
+        "district": "GOMBE SOUTH",
+        "district_code": "SD/044/GM",
+        "lga": "KALTUNGO",
+        "state": "GOMBE"
+    },
+    {
+        "district": "GOMBE SOUTH",
+        "district_code": "SD/044/GM",
+        "lga": "SHONGOM",
+        "state": "GOMBE"
+    },
+    {
+        "district": "GOMBE NORTH",
+        "district_code": "SD/045/GM",
+        "lga": "FUNAKAYE",
+        "state": "GOMBE"
+    },
+    {
+        "district": "GOMBE NORTH",
+        "district_code": "SD/045/GM",
+        "lga": "NAFADA",
+        "state": "GOMBE"
+    },
+    {
+        "district": "GOMBE NORTH",
+        "district_code": "SD/045/GM",
+        "lga": "GOMBE",
+        "state": "GOMBE"
+    },
+    {
+        "district": "GOMBE NORTH",
+        "district_code": "SD/045/GM",
+        "lga": "KWAMI",
+        "state": "GOMBE"
+    },
+    {
+        "district": "GOMBE NORTH",
+        "district_code": "SD/045/GM",
+        "lga": "DUKKU",
+        "state": "GOMBE"
+    },
+    {
+        "district": "IMO EAST",
+        "district_code": "SD/046/IM",
+        "lga": "ABOH MBAISE",
+        "state": "IMO"
+    },
+    {
+        "district": "IMO EAST",
+        "district_code": "SD/046/IM",
+        "lga": "AHIAZU MBAISE",
+        "state": "IMO"
+    },
+    {
+        "district": "IMO EAST",
+        "district_code": "SD/046/IM",
+        "lga": "EZINIHITTE",
+        "state": "IMO"
+    },
+    {
+        "district": "IMO EAST",
+        "district_code": "SD/046/IM",
+        "lga": "IKEDURU",
+        "state": "IMO"
+    },
+    {
+        "district": "IMO EAST",
+        "district_code": "SD/046/IM",
+        "lga": "MBAITOLI",
+        "state": "IMO"
+    },
+    {
+        "district": "IMO EAST",
+        "district_code": "SD/046/IM",
+        "lga": "NGOR OKPALA",
+        "state": "IMO"
+    },
+    {
+        "district": "IMO EAST",
+        "district_code": "SD/046/IM",
+        "lga": "OWERRI MUNICIPAL",
+        "state": "IMO"
+    },
+    {
+        "district": "IMO EAST",
+        "district_code": "SD/046/IM",
+        "lga": "OWERRI NORTH",
+        "state": "IMO"
+    },
+    {
+        "district": "IMO EAST",
+        "district_code": "SD/046/IM",
+        "lga": "OWERRI WEST",
+        "state": "IMO"
+    },
+    {
+        "district": "IMO WEST",
+        "district_code": "SD/047/IM",
+        "lga": "IDEATO NORTH",
+        "state": "IMO"
+    },
+    {
+        "district": "IMO WEST",
+        "district_code": "SD/047/IM",
+        "lga": "IDEATO SOUTH",
+        "state": "IMO"
+    },
+    {
+        "district": "IMO WEST",
+        "district_code": "SD/047/IM",
+        "lga": "ISU",
+        "state": "IMO"
+    },
+    {
+        "district": "IMO WEST",
+        "district_code": "SD/047/IM",
+        "lga": "NJABA",
+        "state": "IMO"
+    },
+    {
+        "district": "IMO WEST",
+        "district_code": "SD/047/IM",
+        "lga": "NKWERE",
+        "state": "IMO"
+    },
+    {
+        "district": "IMO WEST",
+        "district_code": "SD/047/IM",
+        "lga": "NWANGELE",
+        "state": "IMO"
+    },
+    {
+        "district": "IMO WEST",
+        "district_code": "SD/047/IM",
+        "lga": "OGUTA",
+        "state": "IMO"
+    },
+    {
+        "district": "IMO WEST",
+        "district_code": "SD/047/IM",
+        "lga": "OHAJI/EGBEMA",
+        "state": "IMO"
+    },
+    {
+        "district": "IMO WEST",
+        "district_code": "SD/047/IM",
+        "lga": "ORLU",
+        "state": "IMO"
+    },
+    {
+        "district": "IMO WEST",
+        "district_code": "SD/047/IM",
+        "lga": "ORSU",
+        "state": "IMO"
+    },
+    {
+        "district": "IMO WEST",
+        "district_code": "SD/047/IM",
+        "lga": "ORU WEST",
+        "state": "IMO"
+    },
+    {
+        "district": "IMO WEST",
+        "district_code": "SD/047/IM",
+        "lga": "ORU EAST",
+        "state": "IMO"
+    },
+    {
+        "district": "IMO NORTH",
+        "district_code": "SD/048/IM",
+        "lga": "EHIME MBANO",
+        "state": "IMO"
+    },
+    {
+        "district": "IMO NORTH",
+        "district_code": "SD/048/IM",
+        "lga": "IHITE/UBOMA",
+        "state": "IMO"
+    },
+    {
+        "district": "IMO NORTH",
+        "district_code": "SD/048/IM",
+        "lga": "ISIALA MBANO",
+        "state": "IMO"
+    },
+    {
+        "district": "IMO NORTH",
+        "district_code": "SD/048/IM",
+        "lga": "OBOWO",
+        "state": "IMO"
+    },
+    {
+        "district": "IMO NORTH",
+        "district_code": "SD/048/IM",
+        "lga": "OKIGWE",
+        "state": "IMO"
+    },
+    {
+        "district": "IMO NORTH",
+        "district_code": "SD/048/IM",
+        "lga": "ONUIMO",
+        "state": "IMO"
+    },
+    {
+        "district": "JIGAWA SOUTH - WEST",
+        "district_code": "SD/049/JG",
+        "lga": "BIRNIN KUDU",
+        "state": "JIGAWA"
+    },
+    {
+        "district": "JIGAWA SOUTH - WEST",
+        "district_code": "SD/049/JG",
+        "lga": "BUJI",
+        "state": "JIGAWA"
+    },
+    {
+        "district": "JIGAWA SOUTH - WEST",
+        "district_code": "SD/049/JG",
+        "lga": "DUTSE",
+        "state": "JIGAWA"
+    },
+    {
+        "district": "JIGAWA SOUTH - WEST",
+        "district_code": "SD/049/JG",
+        "lga": "GWARAM",
+        "state": "JIGAWA"
+    },
+    {
+        "district": "JIGAWA SOUTH - WEST",
+        "district_code": "SD/049/JG",
+        "lga": "KIYAWA",
+        "state": "JIGAWA"
+    },
+    {
+        "district": "JIGAWA SOUTH - WEST",
+        "district_code": "SD/049/JG",
+        "lga": "JAUN",
+        "state": "JIGAWA"
+    },
+    {
+        "district": "JIGAWA SOUTH - WEST",
+        "district_code": "SD/049/JG",
+        "lga": "MIGA",
+        "state": "JIGAWA"
+    },
+    {
+        "district": "JIGAWA NORTH - EAST",
+        "district_code": "SD/050/JG",
+        "lga": "AUYO",
+        "state": "JIGAWA"
+    },
+    {
+        "district": "JIGAWA NORTH - EAST",
+        "district_code": "SD/050/JG",
+        "lga": "BIRNIWA",
+        "state": "JIGAWA"
+    },
+    {
+        "district": "JIGAWA NORTH - EAST",
+        "district_code": "SD/050/JG",
+        "lga": "GURI",
+        "state": "JIGAWA"
+    },
+    {
+        "district": "JIGAWA NORTH - EAST",
+        "district_code": "SD/050/JG",
+        "lga": "HADEJIA",
+        "state": "JIGAWA"
+    },
+    {
+        "district": "JIGAWA NORTH - EAST",
+        "district_code": "SD/050/JG",
+        "lga": "KAUGAMA",
+        "state": "JIGAWA"
+    },
+    {
+        "district": "JIGAWA NORTH - EAST",
+        "district_code": "SD/050/JG",
+        "lga": "K/HAUSA",
+        "state": "JIGAWA"
+    },
+    {
+        "district": "JIGAWA NORTH - EAST",
+        "district_code": "SD/050/JG",
+        "lga": "K/KASAMMA",
+        "state": "JIGAWA"
+    },
+    {
+        "district": "JIGAWA NORTH - EAST",
+        "district_code": "SD/050/JG",
+        "lga": "M/MADORI",
+        "state": "JIGAWA"
+    },
+    {
+        "district": "JIGAWA NORTH - WEST",
+        "district_code": "SD/051/JG",
+        "lga": "BABURA",
+        "state": "JIGAWA"
+    },
+    {
+        "district": "JIGAWA NORTH - WEST",
+        "district_code": "SD/051/JG",
+        "lga": "GAGARA",
+        "state": "JIGAWA"
+    },
+    {
+        "district": "JIGAWA NORTH - WEST",
+        "district_code": "SD/051/JG",
+        "lga": "GARKI",
+        "state": "JIGAWA"
+    },
+    {
+        "district": "JIGAWA NORTH - WEST",
+        "district_code": "SD/051/JG",
+        "lga": "GWIWA",
+        "state": "JIGAWA"
+    },
+    {
+        "district": "JIGAWA NORTH - WEST",
+        "district_code": "SD/051/JG",
+        "lga": "KAZAURE",
+        "state": "JIGAWA"
+    },
+    {
+        "district": "JIGAWA NORTH - WEST",
+        "district_code": "SD/051/JG",
+        "lga": "MAIGATAR",
+        "state": "JIGAWA"
+    },
+    {
+        "district": "JIGAWA NORTH - WEST",
+        "district_code": "SD/051/JG",
+        "lga": "RONI",
+        "state": "JIGAWA"
+    },
+    {
+        "district": "JIGAWA NORTH - WEST",
+        "district_code": "SD/051/JG",
+        "lga": "RINGIN",
+        "state": "JIGAWA"
+    },
+    {
+        "district": "JIGAWA NORTH - WEST",
+        "district_code": "SD/051/JG",
+        "lga": "S/TANKAR",
+        "state": "JIGAWA"
+    },
+    {
+        "district": "JIGAWA NORTH - WEST",
+        "district_code": "SD/051/JG",
+        "lga": "TAURA",
+        "state": "JIGAWA"
+    },
+    {
+        "district": "JIGAWA NORTH - WEST",
+        "district_code": "SD/051/JG",
+        "lga": "YANKWASHI",
+        "state": "JIGAWA"
+    },
+    {
+        "district": "JIGAWA NORTH - WEST",
+        "district_code": "SD/051/JG",
+        "lga": "GUME",
+        "state": "JIGAWA"
+    },
+    {
+        "district": "KADUNA NORTH",
+        "district_code": "SD/052/KD",
+        "lga": "KUBAU",
+        "state": "KADUNA"
+    },
+    {
+        "district": "KADUNA NORTH",
+        "district_code": "SD/052/KD",
+        "lga": "IKARA",
+        "state": "KADUNA"
+    },
+    {
+        "district": "KADUNA NORTH",
+        "district_code": "SD/052/KD",
+        "lga": "MAKARFI",
+        "state": "KADUNA"
+    },
+    {
+        "district": "KADUNA NORTH",
+        "district_code": "SD/052/KD",
+        "lga": "SOBA",
+        "state": "KADUNA"
+    },
+    {
+        "district": "KADUNA NORTH",
+        "district_code": "SD/052/KD",
+        "lga": "SABON GARI",
+        "state": "KADUNA"
+    },
+    {
+        "district": "KADUNA NORTH",
+        "district_code": "SD/052/KD",
+        "lga": "ZARIA",
+        "state": "KADUNA"
+    },
+    {
+        "district": "KADUNA NORTH",
+        "district_code": "SD/052/KD",
+        "lga": "LERE",
+        "state": "KADUNA"
+    },
+    {
+        "district": "KADUNA NORTH",
+        "district_code": "SD/052/KD",
+        "lga": "KUDAN",
+        "state": "KADUNA"
+    },
+    {
+        "district": "KADUNA CENTRAL",
+        "district_code": "SD/053/KD",
+        "lga": "BIRNIN GWARI",
+        "state": "KADUNA"
+    },
+    {
+        "district": "KADUNA CENTRAL",
+        "district_code": "SD/053/KD",
+        "lga": "GIWA",
+        "state": "KADUNA"
+    },
+    {
+        "district": "KADUNA CENTRAL",
+        "district_code": "SD/053/KD",
+        "lga": "IGABI",
+        "state": "KADUNA"
+    },
+    {
+        "district": "KADUNA CENTRAL",
+        "district_code": "SD/053/KD",
+        "lga": "KADUNA NORTH",
+        "state": "KADUNA"
+    },
+    {
+        "district": "KADUNA CENTRAL",
+        "district_code": "SD/053/KD",
+        "lga": "KADUNA SOUTH",
+        "state": "KADUNA"
+    },
+    {
+        "district": "KADUNA CENTRAL",
+        "district_code": "SD/053/KD",
+        "lga": "CHIKUN",
+        "state": "KADUNA"
+    },
+    {
+        "district": "KADUNA CENTRAL",
+        "district_code": "SD/053/KD",
+        "lga": "KAJURU",
+        "state": "KADUNA"
+    },
+    {
+        "district": "KADUNA SOUTH",
+        "district_code": "SD/054/KD",
+        "lga": "JEMAA",
+        "state": "KADUNA"
+    },
+    {
+        "district": "KADUNA SOUTH",
+        "district_code": "SD/054/KD",
+        "lga": "JABA",
+        "state": "KADUNA"
+    },
+    {
+        "district": "KADUNA SOUTH",
+        "district_code": "SD/054/KD",
+        "lga": "KAURA",
+        "state": "KADUNA"
+    },
+    {
+        "district": "KADUNA SOUTH",
+        "district_code": "SD/054/KD",
+        "lga": "ZANGON",
+        "state": "KADUNA"
+    },
+    {
+        "district": "KADUNA SOUTH",
+        "district_code": "SD/054/KD",
+        "lga": "KAURA",
+        "state": "KADUNA"
+    },
+    {
+        "district": "KADUNA SOUTH",
+        "district_code": "SD/054/KD",
+        "lga": "KACHIA",
+        "state": "KADUNA"
+    },
+    {
+        "district": "KADUNA SOUTH",
+        "district_code": "SD/054/KD",
+        "lga": "KAGARKO",
+        "state": "KADUNA"
+    },
+    {
+        "district": "KADUNA SOUTH",
+        "district_code": "SD/054/KD",
+        "lga": "SANGA",
+        "state": "KADUNA"
+    },
+    {
+        "district": "KANO CENTRAL",
+        "district_code": "SD/055/KN",
+        "lga": "DALA",
+        "state": "KANO"
+    },
+    {
+        "district": "KANO CENTRAL",
+        "district_code": "SD/055/KN",
+        "lga": "GWALE",
+        "state": "KANO"
+    },
+    {
+        "district": "KANO CENTRAL",
+        "district_code": "SD/055/KN",
+        "lga": "DAWAKIN",
+        "state": "KANO"
+    },
+    {
+        "district": "KANO CENTRAL",
+        "district_code": "SD/055/KN",
+        "lga": "GEZAWA",
+        "state": "KANO"
+    },
+    {
+        "district": "KANO CENTRAL",
+        "district_code": "SD/055/KN",
+        "lga": "TARAUNI",
+        "state": "KANO"
+    },
+    {
+        "district": "KANO CENTRAL",
+        "district_code": "SD/055/KN",
+        "lga": "FAGGE",
+        "state": "KANO"
+    },
+    {
+        "district": "KANO CENTRAL",
+        "district_code": "SD/055/KN",
+        "lga": "GARUM MALLAM",
+        "state": "KANO"
+    },
+    {
+        "district": "KANO CENTRAL",
+        "district_code": "SD/055/KN",
+        "lga": "KANO MUNICIPAL",
+        "state": "KANO"
+    },
+    {
+        "district": "KANO CENTRAL",
+        "district_code": "SD/055/KN",
+        "lga": "KUMBOTSO",
+        "state": "KANO"
+    },
+    {
+        "district": "KANO CENTRAL",
+        "district_code": "SD/055/KN",
+        "lga": "KURA",
+        "state": "KANO"
+    },
+    {
+        "district": "KANO CENTRAL",
+        "district_code": "SD/055/KN",
+        "lga": "MADOBI",
+        "state": "KANO"
+    },
+    {
+        "district": "KANO CENTRAL",
+        "district_code": "SD/055/KN",
+        "lga": "MINJIBIR",
+        "state": "KANO"
+    },
+    {
+        "district": "KANO CENTRAL",
+        "district_code": "SD/055/KN",
+        "lga": "NASSARAWA",
+        "state": "KANO"
+    },
+    {
+        "district": "KANO CENTRAL",
+        "district_code": "SD/055/KN",
+        "lga": "UNGOGO",
+        "state": "KANO"
+    },
+    {
+        "district": "KANO CENTRAL",
+        "district_code": "SD/055/KN",
+        "lga": "WARAWA",
+        "state": "KANO"
+    },
+    {
+        "district": "KANO NORTH",
+        "district_code": "SD/056/KN",
+        "lga": "BICHI",
+        "state": "KANO"
+    },
+    {
+        "district": "KANO NORTH",
+        "district_code": "SD/056/KN",
+        "lga": "SHANONO",
+        "state": "KANO"
+    },
+    {
+        "district": "KANO NORTH",
+        "district_code": "SD/056/KN",
+        "lga": "BAGWAI",
+        "state": "KANO"
+    },
+    {
+        "district": "KANO NORTH",
+        "district_code": "SD/056/KN",
+        "lga": "DANBATTA",
+        "state": "KANO"
+    },
+    {
+        "district": "KANO NORTH",
+        "district_code": "SD/056/KN",
+        "lga": "MAKODA",
+        "state": "KANO"
+    },
+    {
+        "district": "KANO NORTH",
+        "district_code": "SD/056/KN",
+        "lga": "DAWAKIN",
+        "state": "KANO"
+    },
+    {
+        "district": "KANO NORTH",
+        "district_code": "SD/056/KN",
+        "lga": "GABASAWA",
+        "state": "KANO"
+    },
+    {
+        "district": "KANO NORTH",
+        "district_code": "SD/056/KN",
+        "lga": "GWARZO",
+        "state": "KANO"
+    },
+    {
+        "district": "KANO NORTH",
+        "district_code": "SD/056/KN",
+        "lga": "KABO",
+        "state": "KANO"
+    },
+    {
+        "district": "KANO NORTH",
+        "district_code": "SD/056/KN",
+        "lga": "RIMI GADO",
+        "state": "KANO"
+    },
+    {
+        "district": "KANO NORTH",
+        "district_code": "SD/056/KN",
+        "lga": "TOFA",
+        "state": "KANO"
+    },
+    {
+        "district": "KANO NORTH",
+        "district_code": "SD/056/KN",
+        "lga": "TSANYAWA",
+        "state": "KANO"
+    },
+    {
+        "district": "KANO NORTH",
+        "district_code": "SD/056/KN",
+        "lga": "KUNCHI",
+        "state": "KANO"
+    },
+    {
+        "district": "KANO NORTH",
+        "district_code": "SD/056/KN",
+        "lga": "KARAYE",
+        "state": "KANO"
+    },
+    {
+        "district": "KANO SOUTH",
+        "district_code": "SD/057/KN",
+        "lga": "ALBASU",
+        "state": "KANO"
+    },
+    {
+        "district": "KANO SOUTH",
+        "district_code": "SD/057/KN",
+        "lga": "BEBEJI",
+        "state": "KANO"
+    },
+    {
+        "district": "KANO SOUTH",
+        "district_code": "SD/057/KN",
+        "lga": "BUNKURE",
+        "state": "KANO"
+    },
+    {
+        "district": "KANO SOUTH",
+        "district_code": "SD/057/KN",
+        "lga": "DOGUWA",
+        "state": "KANO"
+    },
+    {
+        "district": "KANO SOUTH",
+        "district_code": "SD/057/KN",
+        "lga": "GAYA",
+        "state": "KANO"
+    },
+    {
+        "district": "KANO SOUTH",
+        "district_code": "SD/057/KN",
+        "lga": "KIRU",
+        "state": "KANO"
+    },
+    {
+        "district": "KANO SOUTH",
+        "district_code": "SD/057/KN",
+        "lga": "RANO",
+        "state": "KANO"
+    },
+    {
+        "district": "KANO SOUTH",
+        "district_code": "SD/057/KN",
+        "lga": "TAKAI",
+        "state": "KANO"
+    },
+    {
+        "district": "KANO SOUTH",
+        "district_code": "SD/057/KN",
+        "lga": "AJINGI",
+        "state": "KANO"
+    },
+    {
+        "district": "KANO SOUTH",
+        "district_code": "SD/057/KN",
+        "lga": "ROGO",
+        "state": "KANO"
+    },
+    {
+        "district": "KANO SOUTH",
+        "district_code": "SD/057/KN",
+        "lga": "KIBIYA",
+        "state": "KANO"
+    },
+    {
+        "district": "KANO SOUTH",
+        "district_code": "SD/057/KN",
+        "lga": "TUDUN WADA",
+        "state": "KANO"
+    },
+    {
+        "district": "KANO SOUTH",
+        "district_code": "SD/057/KN",
+        "lga": "GARKO",
+        "state": "KANO"
+    },
+    {
+        "district": "KANO SOUTH",
+        "district_code": "SD/057/KN",
+        "lga": "WUDIL",
+        "state": "KANO"
+    },
+    {
+        "district": "KANO SOUTH",
+        "district_code": "SD/057/KN",
+        "lga": "SUMAILA",
+        "state": "KANO"
+    },
+    {
+        "district": "KATSINA NORTH",
+        "district_code": "SD/058/KT",
+        "lga": "DAURA",
+        "state": "KATSINA"
+    },
+    {
+        "district": "KATSINA NORTH",
+        "district_code": "SD/058/KT",
+        "lga": "ZANGO",
+        "state": "KATSINA"
+    },
+    {
+        "district": "KATSINA NORTH",
+        "district_code": "SD/058/KT",
+        "lga": "MAIADUA",
+        "state": "KATSINA"
+    },
+    {
+        "district": "KATSINA NORTH",
+        "district_code": "SD/058/KT",
+        "lga": "MASHI",
+        "state": "KATSINA"
+    },
+    {
+        "district": "KATSINA NORTH",
+        "district_code": "SD/058/KT",
+        "lga": "MANI",
+        "state": "KATSINA"
+    },
+    {
+        "district": "KATSINA NORTH",
+        "district_code": "SD/058/KT",
+        "lga": "INGAWA",
+        "state": "KATSINA"
+    },
+    {
+        "district": "KATSINA NORTH",
+        "district_code": "SD/058/KT",
+        "lga": "BINDAWA",
+        "state": "KATSINA"
+    },
+    {
+        "district": "KATSINA NORTH",
+        "district_code": "SD/058/KT",
+        "lga": "SANDAMU",
+        "state": "KATSINA"
+    },
+    {
+        "district": "KATSINA NORTH",
+        "district_code": "SD/058/KT",
+        "lga": "DUTSI",
+        "state": "KATSINA"
+    },
+    {
+        "district": "KATSINA NORTH",
+        "district_code": "SD/058/KT",
+        "lga": "KANKIA",
+        "state": "KATSINA"
+    },
+    {
+        "district": "KATSINA NORTH",
+        "district_code": "SD/058/KT",
+        "lga": "KUSADA",
+        "state": "KATSINA"
+    },
+    {
+        "district": "KATSINA NORTH",
+        "district_code": "SD/058/KT",
+        "lga": "BAURE",
+        "state": "KATSINA"
+    },
+    {
+        "district": "KATSINA SOUTH",
+        "district_code": "SD/059/KT",
+        "lga": "FUNTUA",
+        "state": "KATSINA"
+    },
+    {
+        "district": "KATSINA SOUTH",
+        "district_code": "SD/059/KT",
+        "lga": "FASKARI",
+        "state": "KATSINA"
+    },
+    {
+        "district": "KATSINA SOUTH",
+        "district_code": "SD/059/KT",
+        "lga": "DANJA",
+        "state": "KATSINA"
+    },
+    {
+        "district": "KATSINA SOUTH",
+        "district_code": "SD/059/KT",
+        "lga": "DANDUME",
+        "state": "KATSINA"
+    },
+    {
+        "district": "KATSINA SOUTH",
+        "district_code": "SD/059/KT",
+        "lga": "BAKORI",
+        "state": "KATSINA"
+    },
+    {
+        "district": "KATSINA SOUTH",
+        "district_code": "SD/059/KT",
+        "lga": "KANKARA",
+        "state": "KATSINA"
+    },
+    {
+        "district": "KATSINA SOUTH",
+        "district_code": "SD/059/KT",
+        "lga": "MALUMEFASHI",
+        "state": "KATSINA"
+    },
+    {
+        "district": "KATSINA SOUTH",
+        "district_code": "SD/059/KT",
+        "lga": "KAFUR",
+        "state": "KATSINA"
+    },
+    {
+        "district": "KATSINA SOUTH",
+        "district_code": "SD/059/KT",
+        "lga": "MUSAWA",
+        "state": "KATSINA"
+    },
+    {
+        "district": "KATSINA SOUTH",
+        "district_code": "SD/059/KT",
+        "lga": "MATAZU",
+        "state": "KATSINA"
+    },
+    {
+        "district": "KATSINA SOUTH",
+        "district_code": "SD/059/KT",
+        "lga": "SABUWA",
+        "state": "KATSINA"
+    },
+    {
+        "district": "KATSINA CENTRAL",
+        "district_code": "SD/060/KT",
+        "lga": "KATSINA",
+        "state": "KATSINA"
+    },
+    {
+        "district": "KATSINA CENTRAL",
+        "district_code": "SD/060/KT",
+        "lga": "KAITA",
+        "state": "KATSINA"
+    },
+    {
+        "district": "KATSINA CENTRAL",
+        "district_code": "SD/060/KT",
+        "lga": "JIBIA",
+        "state": "KATSINA"
+    },
+    {
+        "district": "KATSINA CENTRAL",
+        "district_code": "SD/060/KT",
+        "lga": "BATSARI",
+        "state": "KATSINA"
+    },
+    {
+        "district": "KATSINA CENTRAL",
+        "district_code": "SD/060/KT",
+        "lga": "SAFANA",
+        "state": "KATSINA"
+    },
+    {
+        "district": "KATSINA CENTRAL",
+        "district_code": "SD/060/KT",
+        "lga": "DUTSIN-MA",
+        "state": "KATSINA"
+    },
+    {
+        "district": "KATSINA CENTRAL",
+        "district_code": "SD/060/KT",
+        "lga": "KURFI",
+        "state": "KATSINA"
+    },
+    {
+        "district": "KATSINA CENTRAL",
+        "district_code": "SD/060/KT",
+        "lga": "BATAGARAWA",
+        "state": "KATSINA"
+    },
+    {
+        "district": "KATSINA CENTRAL",
+        "district_code": "SD/060/KT",
+        "lga": "RIMI",
+        "state": "KATSINA"
+    },
+    {
+        "district": "KATSINA CENTRAL",
+        "district_code": "SD/060/KT",
+        "lga": "CHARANCHI",
+        "state": "KATSINA"
+    },
+    {
+        "district": "KATSINA CENTRAL",
+        "district_code": "SD/060/KT",
+        "lga": "DANMUSA",
+        "state": "KATSINA"
+    },
+    {
+        "district": "KEBBI NORTH",
+        "district_code": "SD/061/KB",
+        "lga": "AREWA",
+        "state": "KEBBI"
+    },
+    {
+        "district": "KEBBI NORTH",
+        "district_code": "SD/061/KB",
+        "lga": "ARGUNGU",
+        "state": "KEBBI"
+    },
+    {
+        "district": "KEBBI NORTH",
+        "district_code": "SD/061/KB",
+        "lga": "AUGIE",
+        "state": "KEBBI"
+    },
+    {
+        "district": "KEBBI NORTH",
+        "district_code": "SD/061/KB",
+        "lga": "BAGUDO",
+        "state": "KEBBI"
+    },
+    {
+        "district": "KEBBI NORTH",
+        "district_code": "SD/061/KB",
+        "lga": "DANDI",
+        "state": "KEBBI"
+    },
+    {
+        "district": "KEBBI NORTH",
+        "district_code": "SD/061/KB",
+        "lga": "SURU",
+        "state": "KEBBI"
+    },
+    {
+        "district": "KEBBI NORTH",
+        "district_code": "SD/061/KB",
+        "lga": "JEGA",
+        "state": "KEBBI"
+    },
+    {
+        "district": "KEBBI CENTRAL",
+        "district_code": "SD/062/KB",
+        "lga": "ALEIRO",
+        "state": "KEBBI"
+    },
+    {
+        "district": "KEBBI CENTRAL",
+        "district_code": "SD/062/KB",
+        "lga": "BIRNIN KEBBI",
+        "state": "KEBBI"
+    },
+    {
+        "district": "KEBBI CENTRAL",
+        "district_code": "SD/062/KB",
+        "lga": "BUNZA",
+        "state": "KEBBI"
+    },
+    {
+        "district": "KEBBI CENTRAL",
+        "district_code": "SD/062/KB",
+        "lga": "GWANDU",
+        "state": "KEBBI"
+    },
+    {
+        "district": "KEBBI CENTRAL",
+        "district_code": "SD/062/KB",
+        "lga": "KALGO",
+        "state": "KEBBI"
+    },
+    {
+        "district": "KEBBI CENTRAL",
+        "district_code": "SD/062/KB",
+        "lga": "KOKO BESSE",
+        "state": "KEBBI"
+    },
+    {
+        "district": "KEBBI CENTRAL",
+        "district_code": "SD/062/KB",
+        "lga": "MAIYAMA",
+        "state": "KEBBI"
+    },
+    {
+        "district": "KEBBI SOUTH",
+        "district_code": "SD/063/KB",
+        "lga": "FAKAI",
+        "state": "KEBBI"
+    },
+    {
+        "district": "KEBBI SOUTH",
+        "district_code": "SD/063/KB",
+        "lga": "NGASKI",
+        "state": "KEBBI"
+    },
+    {
+        "district": "KEBBI SOUTH",
+        "district_code": "SD/063/KB",
+        "lga": "SAKABA",
+        "state": "KEBBI"
+    },
+    {
+        "district": "KEBBI SOUTH",
+        "district_code": "SD/063/KB",
+        "lga": "SHANGA",
+        "state": "KEBBI"
+    },
+    {
+        "district": "KEBBI SOUTH",
+        "district_code": "SD/063/KB",
+        "lga": "WASAGU/DANKO",
+        "state": "KEBBI"
+    },
+    {
+        "district": "KEBBI SOUTH",
+        "district_code": "SD/063/KB",
+        "lga": "YAURI",
+        "state": "KEBBI"
+    },
+    {
+        "district": "KEBBI SOUTH",
+        "district_code": "SD/063/KB",
+        "lga": "ZURU",
+        "state": "KEBBI"
+    },
+    {
+        "district": "KOGI CENTRAL",
+        "district_code": "SD/064/KG",
+        "lga": "ADAVI",
+        "state": "KOGI"
+    },
+    {
+        "district": "KOGI CENTRAL",
+        "district_code": "SD/064/KG",
+        "lga": "AJAOKUTA",
+        "state": "KOGI"
+    },
+    {
+        "district": "KOGI CENTRAL",
+        "district_code": "SD/064/KG",
+        "lga": "OGORI/MAGONGO",
+        "state": "KOGI"
+    },
+    {
+        "district": "KOGI CENTRAL",
+        "district_code": "SD/064/KG",
+        "lga": "OKEHI",
+        "state": "KOGI"
+    },
+    {
+        "district": "KOGI CENTRAL",
+        "district_code": "SD/064/KG",
+        "lga": "OKENE",
+        "state": "KOGI"
+    },
+    {
+        "district": "KOGI EAST",
+        "district_code": "SD/065/KG",
+        "lga": "ANKPA",
+        "state": "KOGI"
+    },
+    {
+        "district": "KOGI EAST",
+        "district_code": "SD/065/KG",
+        "lga": "BASSA",
+        "state": "KOGI"
+    },
+    {
+        "district": "KOGI EAST",
+        "district_code": "SD/065/KG",
+        "lga": "DEKINA",
+        "state": "KOGI"
+    },
+    {
+        "district": "KOGI EAST",
+        "district_code": "SD/065/KG",
+        "lga": "IBAJI",
+        "state": "KOGI"
+    },
+    {
+        "district": "KOGI EAST",
+        "district_code": "SD/065/KG",
+        "lga": "IDAH",
+        "state": "KOGI"
+    },
+    {
+        "district": "KOGI EAST",
+        "district_code": "SD/065/KG",
+        "lga": "IGALAMELA-ODOLU",
+        "state": "KOGI"
+    },
+    {
+        "district": "KOGI EAST",
+        "district_code": "SD/065/KG",
+        "lga": "OFU",
+        "state": "KOGI"
+    },
+    {
+        "district": "KOGI EAST",
+        "district_code": "SD/065/KG",
+        "lga": "OLAMABORO",
+        "state": "KOGI"
+    },
+    {
+        "district": "KOGI EAST",
+        "district_code": "SD/065/KG",
+        "lga": "OMALA",
+        "state": "KOGI"
+    },
+    {
+        "district": "KOGI WEST",
+        "district_code": "SD/066/KG",
+        "lga": "IJUMU",
+        "state": "KOGI"
+    },
+    {
+        "district": "KOGI WEST",
+        "district_code": "SD/066/KG",
+        "lga": "KABBA",
+        "state": "KOGI"
+    },
+    {
+        "district": "KOGI WEST",
+        "district_code": "SD/066/KG",
+        "lga": "KOGI",
+        "state": "KOGI"
+    },
+    {
+        "district": "KOGI WEST",
+        "district_code": "SD/066/KG",
+        "lga": "LOKOJA",
+        "state": "KOGI"
+    },
+    {
+        "district": "KOGI WEST",
+        "district_code": "SD/066/KG",
+        "lga": "MOPAMURO",
+        "state": "KOGI"
+    },
+    {
+        "district": "KOGI WEST",
+        "district_code": "SD/066/KG",
+        "lga": "YAGBA EAST",
+        "state": "KOGI"
+    },
+    {
+        "district": "KOGI WEST",
+        "district_code": "SD/066/KG",
+        "lga": "YAGBA WEST",
+        "state": "KOGI"
+    },
+    {
+        "district": "KWARA NORTH",
+        "district_code": "SD/067/KW",
+        "lga": "BARUTEN",
+        "state": "KWARA"
+    },
+    {
+        "district": "KWARA NORTH",
+        "district_code": "SD/067/KW",
+        "lga": "EDU",
+        "state": "KWARA"
+    },
+    {
+        "district": "KWARA NORTH",
+        "district_code": "SD/067/KW",
+        "lga": "PATIGI",
+        "state": "KWARA"
+    },
+    {
+        "district": "KWARA NORTH",
+        "district_code": "SD/067/KW",
+        "lga": "KAIAMA",
+        "state": "KWARA"
+    },
+    {
+        "district": "KWARA NORTH",
+        "district_code": "SD/067/KW",
+        "lga": "MORO",
+        "state": "KWARA"
+    },
+    {
+        "district": "KWARA CENTRAL",
+        "district_code": "SD/068/KW",
+        "lga": "ASA",
+        "state": "KWARA"
+    },
+    {
+        "district": "KWARA CENTRAL",
+        "district_code": "SD/068/KW",
+        "lga": "ILORIN EAST",
+        "state": "KWARA"
+    },
+    {
+        "district": "KWARA CENTRAL",
+        "district_code": "SD/068/KW",
+        "lga": "ILORIN SOUTH",
+        "state": "KWARA"
+    },
+    {
+        "district": "KWARA CENTRAL",
+        "district_code": "SD/068/KW",
+        "lga": "ILORIN WEST",
+        "state": "KWARA"
+    },
+    {
+        "district": "KWARA CENTRAL",
+        "district_code": "SD/068/KW",
+        "lga": "OFFA",
+        "state": "KWARA"
+    },
+    {
+        "district": "KWARA SOUTH",
+        "district_code": "SD/069/KW",
+        "lga": "EKITI",
+        "state": "KWARA"
+    },
+    {
+        "district": "KWARA SOUTH",
+        "district_code": "SD/069/KW",
+        "lga": "OKE-ERO",
+        "state": "KWARA"
+    },
+    {
+        "district": "KWARA SOUTH",
+        "district_code": "SD/069/KW",
+        "lga": "IFELODUN",
+        "state": "KWARA"
+    },
+    {
+        "district": "KWARA SOUTH",
+        "district_code": "SD/069/KW",
+        "lga": "IREPODUN",
+        "state": "KWARA"
+    },
+    {
+        "district": "KWARA SOUTH",
+        "district_code": "SD/069/KW",
+        "lga": "ISIN",
+        "state": "KWARA"
+    },
+    {
+        "district": "KWARA SOUTH",
+        "district_code": "SD/069/KW",
+        "lga": "OYUN",
+        "state": "KWARA"
+    },
+    {
+        "district": "LAGOS CENTRAL",
+        "district_code": "SD/070/LA",
+        "lga": "LAGOS ISLAND",
+        "state": "LAGOS"
+    },
+    {
+        "district": "LAGOS CENTRAL",
+        "district_code": "SD/070/LA",
+        "lga": "LAGOS MAINLAND",
+        "state": "LAGOS"
+    },
+    {
+        "district": "LAGOS CENTRAL",
+        "district_code": "SD/070/LA",
+        "lga": "SURULERE",
+        "state": "LAGOS"
+    },
+    {
+        "district": "LAGOS CENTRAL",
+        "district_code": "SD/070/LA",
+        "lga": "APAPA",
+        "state": "LAGOS"
+    },
+    {
+        "district": "LAGOS CENTRAL",
+        "district_code": "SD/070/LA",
+        "lga": "ETI-OSA",
+        "state": "LAGOS"
+    },
+    {
+        "district": "LAGOS EAST",
+        "district_code": "SD/071/LA",
+        "lga": "SHOMOLU",
+        "state": "LAGOS"
+    },
+    {
+        "district": "LAGOS EAST",
+        "district_code": "SD/071/LA",
+        "lga": "KOSOFE",
+        "state": "LAGOS"
+    },
+    {
+        "district": "LAGOS EAST",
+        "district_code": "SD/071/LA",
+        "lga": "EPE",
+        "state": "LAGOS"
+    },
+    {
+        "district": "LAGOS EAST",
+        "district_code": "SD/071/LA",
+        "lga": "IBEJU-LEKKI",
+        "state": "LAGOS"
+    },
+    {
+        "district": "LAGOS EAST",
+        "district_code": "SD/071/LA",
+        "lga": "IKORODU",
+        "state": "LAGOS"
+    },
+    {
+        "district": "LAGOS WEST",
+        "district_code": "SD/072/LA",
+        "lga": "AGEGE",
+        "state": "LAGOS"
+    },
+    {
+        "district": "LAGOS WEST",
+        "district_code": "SD/072/LA",
+        "lga": "IFAKO-IJAYE",
+        "state": "LAGOS"
+    },
+    {
+        "district": "LAGOS WEST",
+        "district_code": "SD/072/LA",
+        "lga": "ALIMOSHO",
+        "state": "LAGOS"
+    },
+    {
+        "district": "LAGOS WEST",
+        "district_code": "SD/072/LA",
+        "lga": "BADAGRY",
+        "state": "LAGOS"
+    },
+    {
+        "district": "LAGOS WEST",
+        "district_code": "SD/072/LA",
+        "lga": "OJO",
+        "state": "LAGOS"
+    },
+    {
+        "district": "LAGOS WEST",
+        "district_code": "SD/072/LA",
+        "lga": "AJEROMI/IFELODUN",
+        "state": "LAGOS"
+    },
+    {
+        "district": "LAGOS WEST",
+        "district_code": "SD/072/LA",
+        "lga": "AMUWO-ODOFIN",
+        "state": "LAGOS"
+    },
+    {
+        "district": "LAGOS WEST",
+        "district_code": "SD/072/LA",
+        "lga": "OSHODI/ISOLO",
+        "state": "LAGOS"
+    },
+    {
+        "district": "LAGOS WEST",
+        "district_code": "SD/072/LA",
+        "lga": "IKEJA",
+        "state": "LAGOS"
+    },
+    {
+        "district": "LAGOS WEST",
+        "district_code": "SD/072/LA",
+        "lga": "MUSHIN",
+        "state": "LAGOS"
+    },
+    {
+        "district": "NASARAWA NORTH",
+        "district_code": "SD/073/NW",
+        "lga": "AKAWANGA",
+        "state": "NASSARAWA"
+    },
+    {
+        "district": "NASARAWA NORTH",
+        "district_code": "SD/073/NW",
+        "lga": "NASSARAWA EGGON",
+        "state": "NASSARAWA"
+    },
+    {
+        "district": "NASARAWA NORTH",
+        "district_code": "SD/073/NW",
+        "lga": "WAMBA",
+        "state": "NASSARAWA"
+    },
+    {
+        "district": "NASARAWA WEST",
+        "district_code": "SD/074/NW",
+        "lga": "NASSARAWA",
+        "state": "NASSARAWA"
+    },
+    {
+        "district": "NASARAWA WEST",
+        "district_code": "SD/074/NW",
+        "lga": "KEFFI",
+        "state": "NASSARAWA"
+    },
+    {
+        "district": "NASARAWA WEST",
+        "district_code": "SD/074/NW",
+        "lga": "KOKONA",
+        "state": "NASSARAWA"
+    },
+    {
+        "district": "NASARAWA WEST",
+        "district_code": "SD/074/NW",
+        "lga": "KARU",
+        "state": "NASSARAWA"
+    },
+    {
+        "district": "NASARAWA WEST",
+        "district_code": "SD/074/NW",
+        "lga": "TOTO",
+        "state": "NASSARAWA"
+    },
+    {
+        "district": "NASARAWA SOUTH",
+        "district_code": "SD/075/NW",
+        "lga": "LAFIA",
+        "state": "NASSARAWA"
+    },
+    {
+        "district": "NASARAWA SOUTH",
+        "district_code": "SD/075/NW",
+        "lga": "AWE",
+        "state": "NASSARAWA"
+    },
+    {
+        "district": "NASARAWA SOUTH",
+        "district_code": "SD/075/NW",
+        "lga": "DOMA",
+        "state": "NASSARAWA"
+    },
+    {
+        "district": "NASARAWA SOUTH",
+        "district_code": "SD/075/NW",
+        "lga": "KEANA",
+        "state": "NASSARAWA"
+    },
+    {
+        "district": "NASARAWA SOUTH",
+        "district_code": "SD/075/NW",
+        "lga": "OBI",
+        "state": "NASSARAWA"
+    },
+    {
+        "district": "NIGER EAST",
+        "district_code": "SD/076/NG",
+        "lga": "BOSSO",
+        "state": "NIGER"
+    },
+    {
+        "district": "NIGER EAST",
+        "district_code": "SD/076/NG",
+        "lga": "CHACHANGA",
+        "state": "NIGER"
+    },
+    {
+        "district": "NIGER EAST",
+        "district_code": "SD/076/NG",
+        "lga": "GURARA",
+        "state": "NIGER"
+    },
+    {
+        "district": "NIGER EAST",
+        "district_code": "SD/076/NG",
+        "lga": "PAIKORO",
+        "state": "NIGER"
+    },
+    {
+        "district": "NIGER EAST",
+        "district_code": "SD/076/NG",
+        "lga": "RAFI",
+        "state": "NIGER"
+    },
+    {
+        "district": "NIGER EAST",
+        "district_code": "SD/076/NG",
+        "lga": "SHIRORO",
+        "state": "NIGER"
+    },
+    {
+        "district": "NIGER EAST",
+        "district_code": "SD/076/NG",
+        "lga": "MUYA",
+        "state": "NIGER"
+    },
+    {
+        "district": "NIGER EAST",
+        "district_code": "SD/076/NG",
+        "lga": "SULEJA",
+        "state": "NIGER"
+    },
+    {
+        "district": "NIGER EAST",
+        "district_code": "SD/076/NG",
+        "lga": "TAFA",
+        "state": "NIGER"
+    },
+    {
+        "district": "NIGER NORTH",
+        "district_code": "SD/077/NG",
+        "lga": "AGWARA",
+        "state": "NIGER"
+    },
+    {
+        "district": "NIGER NORTH",
+        "district_code": "SD/077/NG",
+        "lga": "BORGU",
+        "state": "NIGER"
+    },
+    {
+        "district": "NIGER NORTH",
+        "district_code": "SD/077/NG",
+        "lga": "KONTOGORA",
+        "state": "NIGER"
+    },
+    {
+        "district": "NIGER NORTH",
+        "district_code": "SD/077/NG",
+        "lga": "MARIGA",
+        "state": "NIGER"
+    },
+    {
+        "district": "NIGER NORTH",
+        "district_code": "SD/077/NG",
+        "lga": "RIJAU",
+        "state": "NIGER"
+    },
+    {
+        "district": "NIGER NORTH",
+        "district_code": "SD/077/NG",
+        "lga": "WUSHISHI",
+        "state": "NIGER"
+    },
+    {
+        "district": "NIGER NORTH",
+        "district_code": "SD/077/NG",
+        "lga": "MASHEGU MAGAMA",
+        "state": "NIGER"
+    },
+    {
+        "district": "NIGER SOUTH",
+        "district_code": "SD/078/NG",
+        "lga": "AGAIE",
+        "state": "NIGER"
+    },
+    {
+        "district": "NIGER SOUTH",
+        "district_code": "SD/078/NG",
+        "lga": "BIDA",
+        "state": "NIGER"
+    },
+    {
+        "district": "NIGER SOUTH",
+        "district_code": "SD/078/NG",
+        "lga": "KATCHA",
+        "state": "NIGER"
+    },
+    {
+        "district": "NIGER SOUTH",
+        "district_code": "SD/078/NG",
+        "lga": "BATAGI",
+        "state": "NIGER"
+    },
+    {
+        "district": "NIGER SOUTH",
+        "district_code": "SD/078/NG",
+        "lga": "LAPAI",
+        "state": "NIGER"
+    },
+    {
+        "district": "NIGER SOUTH",
+        "district_code": "SD/078/NG",
+        "lga": "LAVUN",
+        "state": "NIGER"
+    },
+    {
+        "district": "NIGER SOUTH",
+        "district_code": "SD/078/NG",
+        "lga": "EDATI-IDATI",
+        "state": "NIGER"
+    },
+    {
+        "district": "NIGER SOUTH",
+        "district_code": "SD/078/NG",
+        "lga": "MOKWA",
+        "state": "NIGER"
+    },
+    {
+        "district": "OGUN CENTRAL",
+        "district_code": "SD/079/OG",
+        "lga": "IFO",
+        "state": "OGUN"
+    },
+    {
+        "district": "OGUN CENTRAL",
+        "district_code": "SD/079/OG",
+        "lga": "EWEKORO",
+        "state": "OGUN"
+    },
+    {
+        "district": "OGUN CENTRAL",
+        "district_code": "SD/079/OG",
+        "lga": "OBAFEMI/OWODE",
+        "state": "OGUN"
+    },
+    {
+        "district": "OGUN CENTRAL",
+        "district_code": "SD/079/OG",
+        "lga": "ABEOKUTA NORTH",
+        "state": "OGUN"
+    },
+    {
+        "district": "OGUN CENTRAL",
+        "district_code": "SD/079/OG",
+        "lga": "ABEOKUTA SOUTH",
+        "state": "OGUN"
+    },
+    {
+        "district": "OGUN CENTRAL",
+        "district_code": "SD/079/OG",
+        "lga": "ODEDA",
+        "state": "OGUN"
+    },
+    {
+        "district": "OGUN EAST",
+        "district_code": "SD/080/OG",
+        "lga": "SAGAMU",
+        "state": "OGUN"
+    },
+    {
+        "district": "OGUN EAST",
+        "district_code": "SD/080/OG",
+        "lga": "IKENNE",
+        "state": "OGUN"
+    },
+    {
+        "district": "OGUN EAST",
+        "district_code": "SD/080/OG",
+        "lga": "REMO NORTH",
+        "state": "OGUN"
+    },
+    {
+        "district": "OGUN EAST",
+        "district_code": "SD/080/OG",
+        "lga": "IJEBU-ODE",
+        "state": "OGUN"
+    },
+    {
+        "district": "OGUN EAST",
+        "district_code": "SD/080/OG",
+        "lga": "ODOGBOLU",
+        "state": "OGUN"
+    },
+    {
+        "district": "OGUN EAST",
+        "district_code": "SD/080/OG",
+        "lga": "IJEBU NORTH EAST",
+        "state": "OGUN"
+    },
+    {
+        "district": "OGUN EAST",
+        "district_code": "SD/080/OG",
+        "lga": "IJEBU NORTH",
+        "state": "OGUN"
+    },
+    {
+        "district": "OGUN EAST",
+        "district_code": "SD/080/OG",
+        "lga": "IJEBU EAST",
+        "state": "OGUN"
+    },
+    {
+        "district": "OGUN EAST",
+        "district_code": "SD/080/OG",
+        "lga": "OGUN WATERSIDE",
+        "state": "OGUN"
+    },
+    {
+        "district": "OGUN WEST",
+        "district_code": "SD/081/OG",
+        "lga": "IMEKO AFON",
+        "state": "OGUN"
+    },
+    {
+        "district": "OGUN WEST",
+        "district_code": "SD/081/OG",
+        "lga": "EGBADO NORTH",
+        "state": "OGUN"
+    },
+    {
+        "district": "OGUN WEST",
+        "district_code": "SD/081/OG",
+        "lga": "EGBADO SOUTH",
+        "state": "OGUN"
+    },
+    {
+        "district": "OGUN WEST",
+        "district_code": "SD/081/OG",
+        "lga": "IPOKIA",
+        "state": "OGUN"
+    },
+    {
+        "district": "OGUN WEST",
+        "district_code": "SD/081/OG",
+        "lga": "ADO-ODO/OTA",
+        "state": "OGUN"
+    },
+    {
+        "district": "ONDO NORTH",
+        "district_code": "SD/082/OD",
+        "lga": "AKOKO NORTH EAST",
+        "state": "ONDO"
+    },
+    {
+        "district": "ONDO NORTH",
+        "district_code": "SD/082/OD",
+        "lga": "AKOKO NORTH WEST",
+        "state": "ONDO"
+    },
+    {
+        "district": "ONDO NORTH",
+        "district_code": "SD/082/OD",
+        "lga": "AKOKO SOUTH WEST",
+        "state": "ONDO"
+    },
+    {
+        "district": "ONDO NORTH",
+        "district_code": "SD/082/OD",
+        "lga": "AKOKO SOUTH EAST",
+        "state": "ONDO"
+    },
+    {
+        "district": "ONDO NORTH",
+        "district_code": "SD/082/OD",
+        "lga": "OSE",
+        "state": "ONDO"
+    },
+    {
+        "district": "ONDO NORTH",
+        "district_code": "SD/082/OD",
+        "lga": "OWO",
+        "state": "ONDO"
+    },
+    {
+        "district": "ONDO CENTRAL",
+        "district_code": "SD/083/OD",
+        "lga": "AKURE NORTH",
+        "state": "ONDO"
+    },
+    {
+        "district": "ONDO CENTRAL",
+        "district_code": "SD/083/OD",
+        "lga": "AKURE SOUTH",
+        "state": "ONDO"
+    },
+    {
+        "district": "ONDO CENTRAL",
+        "district_code": "SD/083/OD",
+        "lga": "IFEDORE",
+        "state": "ONDO"
+    },
+    {
+        "district": "ONDO CENTRAL",
+        "district_code": "SD/083/OD",
+        "lga": "IDANRE",
+        "state": "ONDO"
+    },
+    {
+        "district": "ONDO CENTRAL",
+        "district_code": "SD/083/OD",
+        "lga": "ONDO EAST",
+        "state": "ONDO"
+    },
+    {
+        "district": "ONDO CENTRAL",
+        "district_code": "SD/083/OD",
+        "lga": "ONDO WEST",
+        "state": "ONDO"
+    },
+    {
+        "district": "ONDO SOUTH",
+        "district_code": "SD/084/OD",
+        "lga": "ILEOLUJI/OKEIGBO",
+        "state": "ONDO"
+    },
+    {
+        "district": "ONDO SOUTH",
+        "district_code": "SD/084/OD",
+        "lga": "ODIGBO",
+        "state": "ONDO"
+    },
+    {
+        "district": "ONDO SOUTH",
+        "district_code": "SD/084/OD",
+        "lga": "IRELE",
+        "state": "ONDO"
+    },
+    {
+        "district": "ONDO SOUTH",
+        "district_code": "SD/084/OD",
+        "lga": "OKITIPUPA",
+        "state": "ONDO"
+    },
+    {
+        "district": "ONDO SOUTH",
+        "district_code": "SD/084/OD",
+        "lga": "ESE-ODO",
+        "state": "ONDO"
+    },
+    {
+        "district": "ONDO SOUTH",
+        "district_code": "SD/084/OD",
+        "lga": "ILAJE",
+        "state": "ONDO"
+    },
+    {
+        "district": "OSUN CENTRAL",
+        "district_code": "SD/085/OS",
+        "lga": "BORIPE",
+        "state": "OSUN"
+    },
+    {
+        "district": "OSUN CENTRAL",
+        "district_code": "SD/085/OS",
+        "lga": "BOLOWADURO",
+        "state": "OSUN"
+    },
+    {
+        "district": "OSUN CENTRAL",
+        "district_code": "SD/085/OS",
+        "lga": "IFELODUN",
+        "state": "OSUN"
+    },
+    {
+        "district": "OSUN CENTRAL",
+        "district_code": "SD/085/OS",
+        "lga": "ILA",
+        "state": "OSUN"
+    },
+    {
+        "district": "OSUN CENTRAL",
+        "district_code": "SD/085/OS",
+        "lga": "IFEDAYO",
+        "state": "OSUN"
+    },
+    {
+        "district": "OSUN CENTRAL",
+        "district_code": "SD/085/OS",
+        "lga": "IREPODUN",
+        "state": "OSUN"
+    },
+    {
+        "district": "OSUN CENTRAL",
+        "district_code": "SD/085/OS",
+        "lga": "OROLU",
+        "state": "OSUN"
+    },
+    {
+        "district": "OSUN CENTRAL",
+        "district_code": "SD/085/OS",
+        "lga": "ODO-OTIN",
+        "state": "OSUN"
+    },
+    {
+        "district": "OSUN CENTRAL",
+        "district_code": "SD/085/OS",
+        "lga": "OLORUNDA",
+        "state": "OSUN"
+    },
+    {
+        "district": "OSUN CENTRAL",
+        "district_code": "SD/085/OS",
+        "lga": "OSOGBO",
+        "state": "OSUN"
+    },
+    {
+        "district": "OSUN EAST",
+        "district_code": "SD/086/OS",
+        "lga": "ATAKUNMOSA EAST",
+        "state": "OSUN"
+    },
+    {
+        "district": "OSUN EAST",
+        "district_code": "SD/086/OS",
+        "lga": "ATAKUNMOSA WEST",
+        "state": "OSUN"
+    },
+    {
+        "district": "OSUN EAST",
+        "district_code": "SD/086/OS",
+        "lga": "IFE CENTRAL",
+        "state": "OSUN"
+    },
+    {
+        "district": "OSUN EAST",
+        "district_code": "SD/086/OS",
+        "lga": "IFE EAST",
+        "state": "OSUN"
+    },
+    {
+        "district": "OSUN EAST",
+        "district_code": "SD/086/OS",
+        "lga": "IFE NORTH",
+        "state": "OSUN"
+    },
+    {
+        "district": "OSUN EAST",
+        "district_code": "SD/086/OS",
+        "lga": "IFE SOUTH",
+        "state": "OSUN"
+    },
+    {
+        "district": "OSUN EAST",
+        "district_code": "SD/086/OS",
+        "lga": "ILESA EAST",
+        "state": "OSUN"
+    },
+    {
+        "district": "OSUN EAST",
+        "district_code": "SD/086/OS",
+        "lga": "ILESA WEST",
+        "state": "OSUN"
+    },
+    {
+        "district": "OSUN EAST",
+        "district_code": "SD/086/OS",
+        "lga": "OBOKUN",
+        "state": "OSUN"
+    },
+    {
+        "district": "OSUN EAST",
+        "district_code": "SD/086/OS",
+        "lga": "ORIADE",
+        "state": "OSUN"
+    },
+    {
+        "district": "OSUN WEST",
+        "district_code": "SD/087/OS",
+        "lga": "AYADAADE",
+        "state": "OSUN"
+    },
+    {
+        "district": "OSUN WEST",
+        "district_code": "SD/087/OS",
+        "lga": "AYEDIRE",
+        "state": "OSUN"
+    },
+    {
+        "district": "OSUN WEST",
+        "district_code": "SD/087/OS",
+        "lga": "EDE NORTH",
+        "state": "OSUN"
+    },
+    {
+        "district": "OSUN WEST",
+        "district_code": "SD/087/OS",
+        "lga": "EDE SOUTH",
+        "state": "OSUN"
+    },
+    {
+        "district": "OSUN WEST",
+        "district_code": "SD/087/OS",
+        "lga": "EGBEDORE",
+        "state": "OSUN"
+    },
+    {
+        "district": "OSUN WEST",
+        "district_code": "SD/087/OS",
+        "lga": "EJIGBO",
+        "state": "OSUN"
+    },
+    {
+        "district": "OSUN WEST",
+        "district_code": "SD/087/OS",
+        "lga": "IREWOLE",
+        "state": "OSUN"
+    },
+    {
+        "district": "OSUN WEST",
+        "district_code": "SD/087/OS",
+        "lga": "ISOKAN",
+        "state": "OSUN"
+    },
+    {
+        "district": "OSUN WEST",
+        "district_code": "SD/087/OS",
+        "lga": "IWO",
+        "state": "OSUN"
+    },
+    {
+        "district": "OSUN WEST",
+        "district_code": "SD/087/OS",
+        "lga": "OLA-OLUWA",
+        "state": "OSUN"
+    },
+    {
+        "district": "OYO CENTRAL",
+        "district_code": "SD/088/OY",
+        "lga": "AFIJIO",
+        "state": "OYO"
+    },
+    {
+        "district": "OYO CENTRAL",
+        "district_code": "SD/088/OY",
+        "lga": "AKINYELE",
+        "state": "OYO"
+    },
+    {
+        "district": "OYO CENTRAL",
+        "district_code": "SD/088/OY",
+        "lga": "EGBEDA",
+        "state": "OYO"
+    },
+    {
+        "district": "OYO CENTRAL",
+        "district_code": "SD/088/OY",
+        "lga": "OGO OLUWA",
+        "state": "OYO"
+    },
+    {
+        "district": "OYO CENTRAL",
+        "district_code": "SD/088/OY",
+        "lga": "SURULERE",
+        "state": "OYO"
+    },
+    {
+        "district": "OYO CENTRAL",
+        "district_code": "SD/088/OY",
+        "lga": "LAGELU",
+        "state": "OYO"
+    },
+    {
+        "district": "OYO CENTRAL",
+        "district_code": "SD/088/OY",
+        "lga": "OLUYOLE",
+        "state": "OYO"
+    },
+    {
+        "district": "OYO CENTRAL",
+        "district_code": "SD/088/OY",
+        "lga": "ONA-ARA",
+        "state": "OYO"
+    },
+    {
+        "district": "OYO CENTRAL",
+        "district_code": "SD/088/OY",
+        "lga": "OYO EAST",
+        "state": "OYO"
+    },
+    {
+        "district": "OYO CENTRAL",
+        "district_code": "SD/088/OY",
+        "lga": "OYO WEST",
+        "state": "OYO"
+    },
+    {
+        "district": "OYO CENTRAL",
+        "district_code": "SD/088/OY",
+        "lga": "ATIBA",
+        "state": "OYO"
+    },
+    {
+        "district": "OYO NORTH",
+        "district_code": "SD/089/OY",
+        "lga": "SAKI WEST",
+        "state": "OYO"
+    },
+    {
+        "district": "OYO NORTH",
+        "district_code": "SD/089/OY",
+        "lga": "SAKI EAST",
+        "state": "OYO"
+    },
+    {
+        "district": "OYO NORTH",
+        "district_code": "SD/089/OY",
+        "lga": "ATIGBO",
+        "state": "OYO"
+    },
+    {
+        "district": "OYO NORTH",
+        "district_code": "SD/089/OY",
+        "lga": "IREPO",
+        "state": "OYO"
+    },
+    {
+        "district": "OYO NORTH",
+        "district_code": "SD/089/OY",
+        "lga": "OLORUNSOGO",
+        "state": "OYO"
+    },
+    {
+        "district": "OYO NORTH",
+        "district_code": "SD/089/OY",
+        "lga": "KAJOLA",
+        "state": "OYO"
+    },
+    {
+        "district": "OYO NORTH",
+        "district_code": "SD/089/OY",
+        "lga": "IWAJOWA",
+        "state": "OYO"
+    },
+    {
+        "district": "OYO NORTH",
+        "district_code": "SD/089/OY",
+        "lga": "OGBOMOSHO NORTH",
+        "state": "OYO"
+    },
+    {
+        "district": "OYO NORTH",
+        "district_code": "SD/089/OY",
+        "lga": "OGBOMOSHO SOUTH",
+        "state": "OYO"
+    },
+    {
+        "district": "OYO NORTH",
+        "district_code": "SD/089/OY",
+        "lga": "ISEYIN",
+        "state": "OYO"
+    },
+    {
+        "district": "OYO NORTH",
+        "district_code": "SD/089/OY",
+        "lga": "OORELOPE",
+        "state": "OYO"
+    },
+    {
+        "district": "OYO NORTH",
+        "district_code": "SD/089/OY",
+        "lga": "ORIRE",
+        "state": "OYO"
+    },
+    {
+        "district": "OYO NORTH",
+        "district_code": "SD/089/OY",
+        "lga": "ITESIWAJU",
+        "state": "OYO"
+    },
+    {
+        "district": "OYO SOUTH",
+        "district_code": "SD/090/OY",
+        "lga": "IBADAN NORTH",
+        "state": "OYO"
+    },
+    {
+        "district": "OYO SOUTH",
+        "district_code": "SD/090/OY",
+        "lga": "IBADAN NORTH EAST",
+        "state": "OYO"
+    },
+    {
+        "district": "OYO SOUTH",
+        "district_code": "SD/090/OY",
+        "lga": "IBADAN NORTH WEST",
+        "state": "OYO"
+    },
+    {
+        "district": "OYO SOUTH",
+        "district_code": "SD/090/OY",
+        "lga": "IBADAN SOUTH EAST",
+        "state": "OYO"
+    },
+    {
+        "district": "OYO SOUTH",
+        "district_code": "SD/090/OY",
+        "lga": "IBADAN SOUTH WEST",
+        "state": "OYO"
+    },
+    {
+        "district": "OYO SOUTH",
+        "district_code": "SD/090/OY",
+        "lga": "IBARAPA CENTRAL",
+        "state": "OYO"
+    },
+    {
+        "district": "OYO SOUTH",
+        "district_code": "SD/090/OY",
+        "lga": "IBARAPA NORTH",
+        "state": "OYO"
+    },
+    {
+        "district": "OYO SOUTH",
+        "district_code": "SD/090/OY",
+        "lga": "IBARAPA EAST",
+        "state": "OYO"
+    },
+    {
+        "district": "OYO SOUTH",
+        "district_code": "SD/090/OY",
+        "lga": "IDO",
+        "state": "OYO"
+    },
+    {
+        "district": "PLATEAU SOUTH",
+        "district_code": "SD/091/PL",
+        "lga": "LANTANG NORTH",
+        "state": "PLATEAU"
+    },
+    {
+        "district": "PLATEAU SOUTH",
+        "district_code": "SD/091/PL",
+        "lga": "LANTANG SOUTH",
+        "state": "PLATEAU"
+    },
+    {
+        "district": "PLATEAU SOUTH",
+        "district_code": "SD/091/PL",
+        "lga": "MIKANG",
+        "state": "PLATEAU"
+    },
+    {
+        "district": "PLATEAU SOUTH",
+        "district_code": "SD/091/PL",
+        "lga": "QUAAN PAN",
+        "state": "PLATEAU"
+    },
+    {
+        "district": "PLATEAU SOUTH",
+        "district_code": "SD/091/PL",
+        "lga": "SHENDAM",
+        "state": "PLATEAU"
+    },
+    {
+        "district": "PLATEAU SOUTH",
+        "district_code": "SD/091/PL",
+        "lga": "WASE",
+        "state": "PLATEAU"
+    },
+    {
+        "district": "PLATEAU CENTRAL",
+        "district_code": "SD/092/PL",
+        "lga": "BOKKOS",
+        "state": "PLATEAU"
+    },
+    {
+        "district": "PLATEAU CENTRAL",
+        "district_code": "SD/092/PL",
+        "lga": "KANKE",
+        "state": "PLATEAU"
+    },
+    {
+        "district": "PLATEAU CENTRAL",
+        "district_code": "SD/092/PL",
+        "lga": "MANGU",
+        "state": "PLATEAU"
+    },
+    {
+        "district": "PLATEAU CENTRAL",
+        "district_code": "SD/092/PL",
+        "lga": "PANKSHIN",
+        "state": "PLATEAU"
+    },
+    {
+        "district": "PLATEAU CENTRAL",
+        "district_code": "SD/092/PL",
+        "lga": "KANAM",
+        "state": "PLATEAU"
+    },
+    {
+        "district": "PLATEAU NORTH",
+        "district_code": "SD/093/PL",
+        "lga": "BARKIN LADI",
+        "state": "PLATEAU"
+    },
+    {
+        "district": "PLATEAU NORTH",
+        "district_code": "SD/093/PL",
+        "lga": "BASSA",
+        "state": "PLATEAU"
+    },
+    {
+        "district": "PLATEAU NORTH",
+        "district_code": "SD/093/PL",
+        "lga": "JOS EAST",
+        "state": "PLATEAU"
+    },
+    {
+        "district": "PLATEAU NORTH",
+        "district_code": "SD/093/PL",
+        "lga": "JOS NORTH",
+        "state": "PLATEAU"
+    },
+    {
+        "district": "PLATEAU NORTH",
+        "district_code": "SD/093/PL",
+        "lga": "JOS SOUTH",
+        "state": "PLATEAU"
+    },
+    {
+        "district": "PLATEAU NORTH",
+        "district_code": "SD/093/PL",
+        "lga": "RIYOM",
+        "state": "PLATEAU"
+    },
+    {
+        "district": "RIVERS EAST",
+        "district_code": "SD/094/RV",
+        "lga": "ETCHE",
+        "state": "RIVERS"
+    },
+    {
+        "district": "RIVERS EAST",
+        "district_code": "SD/094/RV",
+        "lga": "OMUMA",
+        "state": "RIVERS"
+    },
+    {
+        "district": "RIVERS EAST",
+        "district_code": "SD/094/RV",
+        "lga": "IKWERRE",
+        "state": "RIVERS"
+    },
+    {
+        "district": "RIVERS EAST",
+        "district_code": "SD/094/RV",
+        "lga": "OBIO AKPOR",
+        "state": "RIVERS"
+    },
+    {
+        "district": "RIVERS EAST",
+        "district_code": "SD/094/RV",
+        "lga": "PORT HARCOURT",
+        "state": "RIVERS"
+    },
+    {
+        "district": "RIVERS EAST",
+        "district_code": "SD/094/RV",
+        "lga": "OKIRIKA",
+        "state": "RIVERS"
+    },
+    {
+        "district": "RIVERS EAST",
+        "district_code": "SD/094/RV",
+        "lga": "OGU BOLO",
+        "state": "RIVERS"
+    },
+    {
+        "district": "RIVERS EAST",
+        "district_code": "SD/094/RV",
+        "lga": "EMOHUA",
+        "state": "RIVERS"
+    },
+    {
+        "district": "RIVERS SOUTH EAST",
+        "district_code": "SD/095/RV",
+        "lga": "OPOBO/NKORO",
+        "state": "RIVERS"
+    },
+    {
+        "district": "RIVERS SOUTH EAST",
+        "district_code": "SD/095/RV",
+        "lga": "ANDONI",
+        "state": "RIVERS"
+    },
+    {
+        "district": "RIVERS SOUTH EAST",
+        "district_code": "SD/095/RV",
+        "lga": "OYIGBO",
+        "state": "RIVERS"
+    },
+    {
+        "district": "RIVERS SOUTH EAST",
+        "district_code": "SD/095/RV",
+        "lga": "TAI",
+        "state": "RIVERS"
+    },
+    {
+        "district": "RIVERS SOUTH EAST",
+        "district_code": "SD/095/RV",
+        "lga": "ELEME",
+        "state": "RIVERS"
+    },
+    {
+        "district": "RIVERS SOUTH EAST",
+        "district_code": "SD/095/RV",
+        "lga": "GOKANA",
+        "state": "RIVERS"
+    },
+    {
+        "district": "RIVERS SOUTH EAST",
+        "district_code": "SD/095/RV",
+        "lga": "KHANA",
+        "state": "RIVERS"
+    },
+    {
+        "district": "RIVERS WEST",
+        "district_code": "SD/096/RV",
+        "lga": "ASARI-TORU",
+        "state": "RIVERS"
+    },
+    {
+        "district": "RIVERS WEST",
+        "district_code": "SD/096/RV",
+        "lga": "AKUKU-TORU",
+        "state": "RIVERS"
+    },
+    {
+        "district": "RIVERS WEST",
+        "district_code": "SD/096/RV",
+        "lga": "DEGEMA",
+        "state": "RIVERS"
+    },
+    {
+        "district": "RIVERS WEST",
+        "district_code": "SD/096/RV",
+        "lga": "OGBA/EGBEMA/NDONI",
+        "state": "RIVERS"
+    },
+    {
+        "district": "RIVERS WEST",
+        "district_code": "SD/096/RV",
+        "lga": "ABUA-ODUAL",
+        "state": "RIVERS"
+    },
+    {
+        "district": "RIVERS WEST",
+        "district_code": "SD/096/RV",
+        "lga": "AHOADA EAST",
+        "state": "RIVERS"
+    },
+    {
+        "district": "RIVERS WEST",
+        "district_code": "SD/096/RV",
+        "lga": "AHOADA WEST",
+        "state": "RIVERS"
+    },
+    {
+        "district": "RIVERS WEST",
+        "district_code": "SD/096/RV",
+        "lga": "BONNY",
+        "state": "RIVERS"
+    },
+    {
+        "district": "SOKOTO EAST",
+        "district_code": "SD/097/SO",
+        "lga": "ISA",
+        "state": "SOKOTO"
+    },
+    {
+        "district": "SOKOTO EAST",
+        "district_code": "SD/097/SO",
+        "lga": "SABON BIRNI",
+        "state": "SOKOTO"
+    },
+    {
+        "district": "SOKOTO EAST",
+        "district_code": "SD/097/SO",
+        "lga": "WURNO",
+        "state": "SOKOTO"
+    },
+    {
+        "district": "SOKOTO EAST",
+        "district_code": "SD/097/SO",
+        "lga": "GORONYO",
+        "state": "SOKOTO"
+    },
+    {
+        "district": "SOKOTO EAST",
+        "district_code": "SD/097/SO",
+        "lga": "RABAH",
+        "state": "SOKOTO"
+    },
+    {
+        "district": "SOKOTO EAST",
+        "district_code": "SD/097/SO",
+        "lga": "GADA",
+        "state": "SOKOTO"
+    },
+    {
+        "district": "SOKOTO EAST",
+        "district_code": "SD/097/SO",
+        "lga": "ILLELA",
+        "state": "SOKOTO"
+    },
+    {
+        "district": "SOKOTO EAST",
+        "district_code": "SD/097/SO",
+        "lga": "GWADABAWA",
+        "state": "SOKOTO"
+    },
+    {
+        "district": "SOKOTO NORTH",
+        "district_code": "SD/098/SO",
+        "lga": "TANGAZA",
+        "state": "SOKOTO"
+    },
+    {
+        "district": "SOKOTO NORTH",
+        "district_code": "SD/098/SO",
+        "lga": "BINJI",
+        "state": "SOKOTO"
+    },
+    {
+        "district": "SOKOTO NORTH",
+        "district_code": "SD/098/SO",
+        "lga": "SILAME",
+        "state": "SOKOTO"
+    },
+    {
+        "district": "SOKOTO NORTH",
+        "district_code": "SD/098/SO",
+        "lga": "GUDU",
+        "state": "SOKOTO"
+    },
+    {
+        "district": "SOKOTO NORTH",
+        "district_code": "SD/098/SO",
+        "lga": "KWARE",
+        "state": "SOKOTO"
+    },
+    {
+        "district": "SOKOTO NORTH",
+        "district_code": "SD/098/SO",
+        "lga": "WAMAKKO",
+        "state": "SOKOTO"
+    },
+    {
+        "district": "SOKOTO NORTH",
+        "district_code": "SD/098/SO",
+        "lga": "SOKOTO NORTH",
+        "state": "SOKOTO"
+    },
+    {
+        "district": "SOKOTO NORTH",
+        "district_code": "SD/098/SO",
+        "lga": "SOKOTO SOUTH",
+        "state": "SOKOTO"
+    },
+    {
+        "district": "SOKOTO SOUTH",
+        "district_code": "SD/099/SO",
+        "lga": "DANGE SHUNI",
+        "state": "SOKOTO"
+    },
+    {
+        "district": "SOKOTO SOUTH",
+        "district_code": "SD/099/SO",
+        "lga": "TURETA",
+        "state": "SOKOTO"
+    },
+    {
+        "district": "SOKOTO SOUTH",
+        "district_code": "SD/099/SO",
+        "lga": "BODINGA",
+        "state": "SOKOTO"
+    },
+    {
+        "district": "SOKOTO SOUTH",
+        "district_code": "SD/099/SO",
+        "lga": "SHAGARI",
+        "state": "SOKOTO"
+    },
+    {
+        "district": "SOKOTO SOUTH",
+        "district_code": "SD/099/SO",
+        "lga": "YABO",
+        "state": "SOKOTO"
+    },
+    {
+        "district": "SOKOTO SOUTH",
+        "district_code": "SD/099/SO",
+        "lga": "TAMBUWA",
+        "state": "SOKOTO"
+    },
+    {
+        "district": "SOKOTO SOUTH",
+        "district_code": "SD/099/SO",
+        "lga": "KEBBE",
+        "state": "SOKOTO"
+    },
+    {
+        "district": "TARABA SOUTH",
+        "district_code": "SD/100/TR",
+        "lga": "WUKARI",
+        "state": "TARABA"
+    },
+    {
+        "district": "TARABA SOUTH",
+        "district_code": "SD/100/TR",
+        "lga": "IBI",
+        "state": "TARABA"
+    },
+    {
+        "district": "TARABA SOUTH",
+        "district_code": "SD/100/TR",
+        "lga": "DONGA",
+        "state": "TARABA"
+    },
+    {
+        "district": "TARABA SOUTH",
+        "district_code": "SD/100/TR",
+        "lga": "USSA",
+        "state": "TARABA"
+    },
+    {
+        "district": "TARABA SOUTH",
+        "district_code": "SD/100/TR",
+        "lga": "TAKUM",
+        "state": "TARABA"
+    },
+    {
+        "district": "TARABA CENTRAL",
+        "district_code": "SD/101/TR",
+        "lga": "SARDAUNA",
+        "state": "TARABA"
+    },
+    {
+        "district": "TARABA CENTRAL",
+        "district_code": "SD/101/TR",
+        "lga": "KURMI",
+        "state": "TARABA"
+    },
+    {
+        "district": "TARABA CENTRAL",
+        "district_code": "SD/101/TR",
+        "lga": "BALI",
+        "state": "TARABA"
+    },
+    {
+        "district": "TARABA CENTRAL",
+        "district_code": "SD/101/TR",
+        "lga": "GASHAKA",
+        "state": "TARABA"
+    },
+    {
+        "district": "TARABA CENTRAL",
+        "district_code": "SD/101/TR",
+        "lga": "GASSOL",
+        "state": "TARABA"
+    },
+    {
+        "district": "TARABA NORTH",
+        "district_code": "SD/102/TR",
+        "lga": "JALINGO",
+        "state": "TARABA"
+    },
+    {
+        "district": "TARABA NORTH",
+        "district_code": "SD/102/TR",
+        "lga": "YORRO",
+        "state": "TARABA"
+    },
+    {
+        "district": "TARABA NORTH",
+        "district_code": "SD/102/TR",
+        "lga": "ZING",
+        "state": "TARABA"
+    },
+    {
+        "district": "TARABA NORTH",
+        "district_code": "SD/102/TR",
+        "lga": "LAU",
+        "state": "TARABA"
+    },
+    {
+        "district": "TARABA NORTH",
+        "district_code": "SD/102/TR",
+        "lga": "ARDO-KOLA",
+        "state": "TARABA"
+    },
+    {
+        "district": "TARABA NORTH",
+        "district_code": "SD/102/TR",
+        "lga": "KARIM-LAMIDO",
+        "state": "TARABA"
+    },
+    {
+        "district": "YOBE EAST",
+        "district_code": "SD/103/YB",
+        "lga": "BURSARI",
+        "state": "YOBE"
+    },
+    {
+        "district": "YOBE EAST",
+        "district_code": "SD/103/YB",
+        "lga": "GEIDAM",
+        "state": "YOBE"
+    },
+    {
+        "district": "YOBE EAST",
+        "district_code": "SD/103/YB",
+        "lga": "GUJBA",
+        "state": "YOBE"
+    },
+    {
+        "district": "YOBE EAST",
+        "district_code": "SD/103/YB",
+        "lga": "GULANI",
+        "state": "YOBE"
+    },
+    {
+        "district": "YOBE EAST",
+        "district_code": "SD/103/YB",
+        "lga": "TARMUWA",
+        "state": "YOBE"
+    },
+    {
+        "district": "YOBE EAST",
+        "district_code": "SD/103/YB",
+        "lga": "YUNUSARI",
+        "state": "YOBE"
+    },
+    {
+        "district": "YOBE NORTH",
+        "district_code": "SD/104/YB",
+        "lga": "BADE",
+        "state": "YOBE"
+    },
+    {
+        "district": "YOBE NORTH",
+        "district_code": "SD/104/YB",
+        "lga": "JAKUSKO",
+        "state": "YOBE"
+    },
+    {
+        "district": "YOBE NORTH",
+        "district_code": "SD/104/YB",
+        "lga": "MACHINA",
+        "state": "YOBE"
+    },
+    {
+        "district": "YOBE NORTH",
+        "district_code": "SD/104/YB",
+        "lga": "KARASUWA",
+        "state": "YOBE"
+    },
+    {
+        "district": "YOBE NORTH",
+        "district_code": "SD/104/YB",
+        "lga": "NGURU",
+        "state": "YOBE"
+    },
+    {
+        "district": "YOBE NORTH",
+        "district_code": "SD/104/YB",
+        "lga": "YUSUFARI",
+        "state": "YOBE"
+    },
+    {
+        "district": "YOBE SOUTH",
+        "district_code": "SD/105/YB",
+        "lga": "FIKA",
+        "state": "YOBE"
+    },
+    {
+        "district": "YOBE SOUTH",
+        "district_code": "SD/105/YB",
+        "lga": "FUNE",
+        "state": "YOBE"
+    },
+    {
+        "district": "YOBE SOUTH",
+        "district_code": "SD/105/YB",
+        "lga": "NANGERE",
+        "state": "YOBE"
+    },
+    {
+        "district": "YOBE SOUTH",
+        "district_code": "SD/105/YB",
+        "lga": "POTISKUM",
+        "state": "YOBE"
+    },
+    {
+        "district": "YOBE SOUTH",
+        "district_code": "SD/105/YB",
+        "lga": "DAMATURU",
+        "state": "YOBE"
+    },
+    {
+        "district": "ZAMFARA NORTH",
+        "district_code": "SD/106/ZF",
+        "lga": "K/NAMODA",
+        "state": "ZAMFARA"
+    },
+    {
+        "district": "ZAMFARA NORTH",
+        "district_code": "SD/106/ZF",
+        "lga": "SHINKAFI",
+        "state": "ZAMFARA"
+    },
+    {
+        "district": "ZAMFARA NORTH",
+        "district_code": "SD/106/ZF",
+        "lga": "ZURMI",
+        "state": "ZAMFARA"
+    },
+    {
+        "district": "ZAMFARA NORTH",
+        "district_code": "SD/106/ZF",
+        "lga": "BIRNIN MAGAJI",
+        "state": "ZAMFARA"
+    },
+    {
+        "district": "ZAMFARA NORTH",
+        "district_code": "SD/106/ZF",
+        "lga": "T/MAFARA",
+        "state": "ZAMFARA"
+    },
+    {
+        "district": "ZAMFARA CENTRAL",
+        "district_code": "SD/107/ZF",
+        "lga": "GUSAU",
+        "state": "ZAMFARA"
+    },
+    {
+        "district": "ZAMFARA CENTRAL",
+        "district_code": "SD/107/ZF",
+        "lga": "TSAFE",
+        "state": "ZAMFARA"
+    },
+    {
+        "district": "ZAMFARA CENTRAL",
+        "district_code": "SD/107/ZF",
+        "lga": "BUNGUDU",
+        "state": "ZAMFARA"
+    },
+    {
+        "district": "ZAMFARA CENTRAL",
+        "district_code": "SD/107/ZF",
+        "lga": "MARU",
+        "state": "ZAMFARA"
+    },
+    {
+        "district": "ZAMFARA WEST",
+        "district_code": "SD/108/ZF",
+        "lga": "MARADUN",
+        "state": "ZAMFARA"
+    },
+    {
+        "district": "ZAMFARA WEST",
+        "district_code": "SD/108/ZF",
+        "lga": "BAKURA",
+        "state": "ZAMFARA"
+    },
+    {
+        "district": "ZAMFARA WEST",
+        "district_code": "SD/108/ZF",
+        "lga": "ANKA",
+        "state": "ZAMFARA"
+    },
+    {
+        "district": "ZAMFARA WEST",
+        "district_code": "SD/108/ZF",
+        "lga": "BUKKUYUM",
+        "state": "ZAMFARA"
+    },
+    {
+        "district": "ZAMFARA WEST",
+        "district_code": "SD/108/ZF",
+        "lga": "GUMMI",
+        "state": "ZAMFARA"
+    },
+    {
+        "district": "FEDERAL CAPITAL TERRITORY",
+        "district_code": "SD/109/FCT",
+        "lga": "ABAJI AREA COUNCIL",
+        "state": "FCT"
+    },
+    {
+        "district": "FEDERAL CAPITAL TERRITORY",
+        "district_code": "SD/109/FCT",
+        "lga": "GWAGWA AREA COUNCIL",
+        "state": "FCT"
+    },
+    {
+        "district": "FEDERAL CAPITAL TERRITORY",
+        "district_code": "SD/109/FCT",
+        "lga": "KUJE AREA COUNCIL",
+        "state": "FCT"
+    },
+    {
+        "district": "FEDERAL CAPITAL TERRITORY",
+        "district_code": "SD/109/FCT",
+        "lga": "MUNICIPAL AREA COUNCIL",
+        "state": "FCT"
+    },
+    {
+        "district": "FEDERAL CAPITAL TERRITORY",
+        "district_code": "SD/109/FCT",
+        "lga": "KWALI AREA COUNCIL",
+        "state": "FCT"
+    },
+    {
+        "district": "FEDERAL CAPITAL TERRITORY",
+        "district_code": "SD/109/FCT",
+        "lga": "BWARI AREA COUNCIL",
+        "state": "FCT"
+    }
+]
